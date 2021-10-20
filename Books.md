@@ -1,14 +1,9 @@
 # Books
 *Links to freely available books*
 
-- Mathematics for Machine Learning [link](https://mml-book.github.io/)
-- Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville [link](https://www.deeplearningbook.org/)
-- Machine Learning Engineering written by Andriy Burkov [link](http://www.mlebook.com/wiki/doku.php)
 
-The following is a list of free and/or open source books on machine learning, statistics, data mining, etc.
-
-## Machine Learning / Data Mining
-
+## Machine Learning
+- Machine Learning Engineering by Andriy Burkov [link](http://www.mlebook.com/wiki/doku.php)
 * [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 * [Real World Machine Learning](https://www.manning.com/books/real-world-machine-learning) [Free Chapters]
 * [An Introduction To Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) - Book + R Code
@@ -63,8 +58,7 @@ The following is a list of free and/or open source books on machine learning, st
 
 
 ## Deep Learning
-
-* [Deep Learning - An MIT Press book](https://www.deeplearningbook.org/)
+- Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville [link](https://www.deeplearningbook.org/)
 * [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
 * [Deep Learning with JavaScript](https://www.manning.com/books/deep-learning-with-javascript) Early access book
 * [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) Early access book
@@ -77,7 +71,6 @@ The following is a list of free and/or open source books on machine learning, st
 * [Deep Learning](https://www.deeplearningbook.org/)[Ian Goodfellow, Yoshua Bengio and Aaron Courville]
 
 ## Natural Language Processing
-
 * [Coursera Course Book on NLP](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html)
 * [NLTK](https://www.nltk.org/book/)
 * [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/promo/)
@@ -86,39 +79,41 @@ The following is a list of free and/or open source books on machine learning, st
 * [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) Early access book
 
 ## Information Retrieval
-
 * [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
 
-## Neural Networks
-
+## Artificial Neural Networks
 * [A Brief Introduction to Neural Networks](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 ## Probability & Statistics
+- Basic Probability Theory [link](https://www.math.uiuc.edu/~r-ash/BPT/BPT.pdf)
+- From Algorithms to Z-Scores [link](http://heather.cs.ucdavis.edu/probstatbook)
+- Introduction to probability [link](https://math.dartmouth.edu/~prob/prob/prob.pdf)
+- Introduction to statistical thought [link](https://people.math.umass.edu/~lavine/Book/book.pdf)
+- Introduction to Probability and Statistics Using R [link](http://ipsur.r-forge.r-project.org/book/download/IPSUR.pdf)
+- Introduction to Probability [link](http://athenasc.com/probbook.html)
+- Probability Theory: The Logic of Science [link](https://bayes.wustl.edu/etj/prob/book.pdf)- 
+- Probability & Statistics Cookbook [link](http://statistics.zone/)
+- The Elements of Statistical Learning: Data Mining, Inference, and Prediction [link](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- Think Stats [link](https://www.greenteapress.com/thinkstats/)
 
-* [Think Stats](https://www.greenteapress.com/thinkstats/) - Book + Python Code
-* [From Algorithms to Z-Scores](http://heather.cs.ucdavis.edu/probstatbook) - Book
-* [The Art of R Programming](http://heather.cs.ucdavis.edu/~matloff/132/NSPpart.pdf) - Book (Not Finished)
-* [Introduction to statistical thought](https://people.math.umass.edu/~lavine/Book/book.pdf)
-* [Basic Probability Theory](https://www.math.uiuc.edu/~r-ash/BPT/BPT.pdf)
-* [Introduction to probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) - By Dartmouth College
-* [Probability & Statistics Cookbook](http://statistics.zone/)
-* [Introduction to Probability](http://athenasc.com/probbook.html) -  Book and course by MIT
-* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](https://web.stanford.edu/~hastie/ElemStatLearn/) - Book
-* [An Introduction to Statistical Learning with Applications in R](https://www-bcf.usc.edu/~gareth/ISL/) - Book
-* [Introduction to Probability and Statistics Using R](http://ipsur.r-forge.r-project.org/book/download/IPSUR.pdf) - Book
-* [Advanced R Programming](http://adv-r.had.co.nz) - Book
-* [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Book
-* [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) - Book
-* [The R Inferno](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Book
-* [Probability Theory: The Logic of Science](https://bayes.wustl.edu/etj/prob/book.pdf) - By Jaynes
+## Books Focused on Programing
+- Advanced R Programming [link](http://adv-r.had.co.nz)
+- Practical Regression and Anova using R [link](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf)
+- R practicals [link](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf)
+- The R Inferno [link](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
+- The Art of R Programming [link](http://heather.cs.ucdavis.edu/~matloff/132/NSPpart.pdf)
+- An Introduction to Statistical Learning with Applications in R [link](https://www-bcf.usc.edu/~gareth/ISL/) - Book
 
-#Linear Algebra
-* [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
-* [Linear Algebra by Shilov](https://cosmathclub.files.wordpress.com/2014/10/georgi-shilov-linear-algebra4.pdf)
-* [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW.html)
-* [Linear Algebra, Theory, and Applications](https://math.byu.edu/~klkuttle/Linearalgebra.pdf)
-* [Applied Numerical Computing](https://www.seas.ucla.edu/~vandenbe/ee133a.html)
+## Linear Algebra
+* The Matrix Cookbook [link](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+* Linear Algebra by Shilov [link](https://cosmathclub.files.wordpress.com/2014/10/georgi-shilov-linear-algebra4.pdf)
+* Linear Algebra Done Wrong [link](https://www.math.brown.edu/~treil/papers/LADW/LADW.html)
+* Linear Algebra, Theory, and Applications [link](https://math.byu.edu/~klkuttle/Linearalgebra.pdf)
+
+## Numerical methods
+- Applied Numerical Computing [link](https://www.seas.ucla.edu/~vandenbe/ee133a.html)
+- Mathematics for Machine Learning *by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong* [link](https://mml-book.github.io/)
 
 ## Optimisation
 - Convex Optimization [link](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
