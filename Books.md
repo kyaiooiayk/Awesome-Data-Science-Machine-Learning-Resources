@@ -4,7 +4,11 @@
 ## For Newbies
 - A First Encounter with Machine Learning [link](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf)
 - Machine Learning for Dummies [link](https://mscdss.ds.unipi.gr/wp-content/uploads/2018/02/Untitled-attachment-00056-2-1.pdf)
-- Machine Learning for Mortals (Mere and Otherwise) [link](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
+- Machine Learning for Mortals (Mere and Otherwise) [link](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) 
+
+## Big Data
+- Fighting Churn With Data *by Carl Gold* [link](https://www.manning.com/books/fighting-churn-with-data)  [Free Chapter]
+- Data Mining - Practical Machine Learning Tools and Techniques [link](https://cdn.preterhuman.net/texts/science_and_technology/artificial_intelligence/Data%20Mining%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%202d%20ed%20-%20Morgan%20Kaufmann.pdf)
 
 ## Machine Learning
 - Machine Learning Engineering by Andriy Burkov [link](http://www.mlebook.com/wiki/doku.php)
@@ -23,22 +27,17 @@
 - A Course in Machine Learning [link](http://ciml.info/)
 - Machine Learning, Neural and Statistical Classification [link](https://www1.maths.leeds.ac.uk/~charles/statlog/)
 - Bayesian Reasoning and Machine Learning [link](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
-- Data Mining - Practical Machine Learning Tools and Techniques [link](https://cdn.preterhuman.net/texts/science_and_technology/artificial_intelligence/Data%20Mining%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%202d%20ed%20-%20Morgan%20Kaufmann.pdf)
 - Machine Learning Systems [link](https://www.manning.com/books/machine-learning-systems)
 - Graph-Powered Machine Learning](https://www.manning.com/books/graph-powered-machine-learning) - Alessandro Negro. Combining graph theory and models to improve machine learning projects
-
-
-- Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - Early access book that introduces the most valuable machine learning techniques.
-- Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) - Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
-- Understanding Machine Learning](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) - Shai Shalev-Shwartz and Shai Ben-David
-- How Machine Learning Works](https://www.manning.com/books/how-machine-learning-works) - Mostafa Samir. Early access book that intorduces machine learning from both practical and theoretical aspects in a non-threating way. 
-- Fighting Churn With Data](https://www.manning.com/books/fighting-churn-with-data)  [Free Chapter] Carl Gold - Hands on course in applied data science in Python and SQL, taught through the use case of customer churn.
+- Grokking Machine Learning [link](https://www.manning.com/books/grokking-machine-learning)
+- Foundations of Machine Learning *by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar* [link](https://cs.nyu.edu/~mohri/mlbook/)
+- Understanding Machine Learning *by Shai Shalev-Shwartz and Shai Ben-David* [link](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
+- How Machine Learning Works *by Mostafa Samir* [link](https://www.manning.com/books/how-machine-learning-works)
  Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp) - Alexey Grigorev - a project-based approach on learning machine learning
 - AI Summer](https://theaisummer.com/) A blog to help you learn Deep Learning an Artificial Intelligence
 - Python Data Science Handbook- Oriely](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
 - Mathematics for Machine Learning](https://mml-book.github.io/)
 - Approaching Almost any Machine learning problem Abhishek Thakur [link](https://github.com/abhishekkrthakur/approachingalmost)
-- MLOps Engineering at Scale [link](https://www.manning.com/books/mlops-engineering-at-scale)
 - AI-Powered Search [link](https://www.manning.com/books/ai-powered-search)
 
 ## Deep Learning
@@ -58,6 +57,9 @@
 - Machine Learning with TensorFlow [link](https://www.manning.com/books/machine-learning-with-tensorflow)
 - Hands‑On Machine Learning with Scikit‑Learn and TensorFlow *by Aurélien Géron* [link](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf)
 
+## MLOps
+- MLOps Engineering at Scale [link](https://www.manning.com/books/mlops-engineering-at-scale)
+- 
 ## Natural Language Processing
 - Coursera Course Book on NLP [link](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html)
 - Data Intensive Text Processing w/ MapReduce [link](https://lintool.github.io/MapReduceAlgorithms/)
