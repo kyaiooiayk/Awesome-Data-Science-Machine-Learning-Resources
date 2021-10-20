@@ -10,7 +10,7 @@ Links to free (mostly?) resources for learning about Data Science
 ## [Interview Preparation](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Interview%20Preparation.md)
 *Links to websites/resources thath prepare you for interviews*
 
-## [Join Mailing list](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Mailing%20List.md)
+## [Mailing list](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Mailing%20List.md)
 *Hopefully they'll not spam you every day!*
 
 ## [Other Git-Hub resources](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Other%20Git-Hub%20Resources.md)
