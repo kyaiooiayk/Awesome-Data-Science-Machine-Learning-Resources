@@ -2,5 +2,5 @@
 Links to free(mostly) resources for learning about Data Science
 
 # Interview preparations
-<hr style="border:2px solid black"> </hr>
-- Stratascratch [link](https://www.stratascratch.com/)
+*Links to websites/resources thath prepare you for interviews*
+- **Stratascratch**: known to list questions asked at big tech company https://www.stratascratch.com/
