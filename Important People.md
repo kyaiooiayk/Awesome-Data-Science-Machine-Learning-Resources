@@ -1,4 +1,4 @@
-# Important people
+# Important People
 *Links to the homepages of the most influencial people in AI/ML*
 
 - Geoffrey E. Hinton, University of Toronto [link](https://www.cs.toronto.edu/~hinton/)
