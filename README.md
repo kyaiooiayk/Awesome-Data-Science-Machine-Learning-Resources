@@ -7,7 +7,7 @@ Links to free(mostly) resources for learning about Data Science
 - Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville [link](https://www.deeplearningbook.org/)
 - Machine Learning Engineering written by Andriy Burkov [link](http://www.mlebook.com/wiki/doku.php)
 
-# Import people
+# Important people
 *Links to the homepages of the most influencial people in AI/ML*
 - Geoffrey E. Hinton, University of Toronto [link](https://www.cs.toronto.edu/~hinton/)
 - Yann LeCun, New York University [link](http://yann.lecun.com/)
