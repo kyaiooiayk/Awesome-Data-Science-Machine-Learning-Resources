@@ -1,5 +1,5 @@
 # Data-Science-Resources
-Links to free(mostly) resources for learning about Data Science
+Links to free (mostly?) resources for learning about Data Science
 
 ## [Books](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Books.md)
 *Links to freely available books*
