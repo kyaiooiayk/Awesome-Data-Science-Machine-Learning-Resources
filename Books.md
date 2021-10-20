@@ -118,9 +118,11 @@ The following is a list of free and/or open source books on machine learning, st
 * [Linear Algebra by Shilov](https://cosmathclub.files.wordpress.com/2014/10/georgi-shilov-linear-algebra4.pdf)
 * [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW.html)
 * [Linear Algebra, Theory, and Applications](https://math.byu.edu/~klkuttle/Linearalgebra.pdf)
-* [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 * [Applied Numerical Computing](https://www.seas.ucla.edu/~vandenbe/ee133a.html)
 
-# Calculus
+## Optimisation
+- Convex Optimization [link](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+
+## Calculus
 - Calculus Made Easy [link](https://github.com/lahorekid/Calculus/blob/master/Calculus%20Made%20Easy.pdf)
 - Calculus by ron larson [link](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/860/%20CalculusTextbook.pdf)
