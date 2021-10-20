@@ -14,7 +14,7 @@ Links to free (mostly?) resources for learning about Data Science
 *Hopefully they'll not spam you every day!*
 
 ## [Other Git-Hub resources](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Other%20Git-Hub%20Resources.md)
-*Links to other Git-Hub repositories useful providing a huge breath of additional resources*
+*Links to other useful Git-Hub repositories providing a huge breath of additional resources*
 
 ## [Online Courses](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Online%20Courses.md)
 *Non academic courses, focused on prgramming and deployment*
