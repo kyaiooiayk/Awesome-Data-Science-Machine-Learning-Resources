@@ -37,7 +37,8 @@
 - Mathematics for Machine Learning [link](https://mml-book.github.io/)
 - Approaching Almost any Machine learning problem Abhishek Thakur [link](https://github.com/abhishekkrthakur/approachingalmost)
 - AI-Powered Search [link](https://www.manning.com/books/ai-powered-search)
-
+- The fastai book *by Howard, J. and Gugger, S.* [link](https://github.com/fastai/fastbook)
+- 
 ## Deep Learning
 - Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville [link](https://www.deeplearningbook.org/)
 - Grokking Deep Learning [link](https://www.manning.com/books/grokking-deep-learning) 
