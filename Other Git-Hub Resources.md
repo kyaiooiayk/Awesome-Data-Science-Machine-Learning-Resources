@@ -4,3 +4,4 @@
 - https://github.com/gordicaleksa
 - https://github.com/josephmisiti
 - https://github.com/jakevdp
+- https://github.com/ethen8181
