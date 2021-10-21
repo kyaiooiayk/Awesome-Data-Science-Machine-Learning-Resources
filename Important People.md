@@ -1,5 +1,5 @@
 # Important People
-*Links to the homepages of the most influencial people in AI/ML*
+*Links to the homepages of the most influencial people in AI/ML/DL*
 
 - Geoffrey E. Hinton, University of Toronto [link](https://www.cs.toronto.edu/~hinton/)
 - Yann LeCun, New York University [link](http://yann.lecun.com/)
