@@ -6,4 +6,5 @@
 - Colah's blog [link](http://colah.github.io/)
 - Distil. ML explained clearly [link](https://distill.pub/about/)
 - Google AI Blog [link](https://ai.googleblog.com/)
-
+- Towards Data Science [link](https://towardsdatascience.com/)
+- Natural Intelligence, A science blog by *Sam Greydanus* [link](https://greydanus.github.io/)
