@@ -11,7 +11,7 @@ Links to free (mostly?) resources for learning about Data Science
 *Links to the homepages of the most influencial people in AI/ML*
 
 ## [Interview Preparation](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Interview%20Preparation.md)
-*Links to websites/resources thath prepare you for interviews*
+*Links to websites/resources that prepare you for interviews*
 
 ## [Mailing list](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Mailing%20List.md)
 *Hopefully they'll not spam you every day!*
