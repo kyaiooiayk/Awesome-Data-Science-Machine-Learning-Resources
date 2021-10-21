@@ -34,7 +34,6 @@
 - Understanding Machine Learning *by Shai Shalev-Shwartz and Shai Ben-David* [link](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 - How Machine Learning Works *by Mostafa Samir* [link](https://www.manning.com/books/how-machine-learning-works)
 - Machine Learning Bookcamp *by Alexey Grigorev* [link](https://www.manning.com/books/machine-learning-bookcamp) 
-- Python Data Science Handbook- Oriely [link](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
 - Mathematics for Machine Learning [link](https://mml-book.github.io/)
 - Approaching Almost any Machine learning problem Abhishek Thakur [link](https://github.com/abhishekkrthakur/approachingalmost)
 - AI-Powered Search [link](https://www.manning.com/books/ai-powered-search)
@@ -58,7 +57,7 @@
 
 ## MLOps
 - MLOps Engineering at Scale [link](https://www.manning.com/books/mlops-engineering-at-scale)
-- 
+
 ## Natural Language Processing
 - Coursera Course Book on NLP [link](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html)
 - Data Intensive Text Processing w/ MapReduce [link](https://lintool.github.io/MapReduceAlgorithms/)
@@ -110,6 +109,7 @@
 - Deep Learning with JavaScript [link](https://www.manning.com/books/deep-learning-with-javascript) 
 - R for Data Science: Import, Tidy, Transform, Visualize, and Model Data *by Wickham and Grolemund* [link](https://r4ds.had.co.nz/)
 - Advanced R *by Hadley Wickham* [link](http://adv-r.had.co.nz/)
+- Python Data Science Handbook *by Jake VanderPlas* [link](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf) [GitHub Notebooks Repository](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ## Vision
 - Pattern Recognition and Machine Learning [link](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
