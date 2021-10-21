@@ -4,6 +4,9 @@ Links to free (mostly?) resources for learning about Data Science
 ## [Books](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Books.md)
 *Links to freely available books*
 
+## [Blogs](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Blogs.md)
+*Blogs discussing AI/ML topics*
+
 ## [Important people](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Important%20People.md)
 *Links to the homepages of the most influencial people in AI/ML*
 
