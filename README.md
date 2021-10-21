@@ -25,6 +25,9 @@ Links to free (mostly?) resources for learning about Data Science
 ## [Online Courses](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Online%20Courses.md)
 *Non academic courses, focused on prgramming and deployment*
 
+## [Podcasts](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Podcasts.md)
+*List of podcasts on ML/AI/DL*
+
 ## [Scientific Articles](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Scientific%20Articles.md)
 *Scientific publications*
 
