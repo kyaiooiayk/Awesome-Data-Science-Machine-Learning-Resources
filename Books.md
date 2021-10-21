@@ -7,15 +7,15 @@
 - Machine Learning for Mortals (Mere and Otherwise) [link](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) 
 
 ## Big Data
-- Fighting Churn With Data *by Carl Gold* [link](https://www.manning.com/books/fighting-churn-with-data)  [Free Chapter]
+- Fighting Churn With Data *by Carl Gold* [link](https://www.manning.com/books/fighting-churn-with-data) 
 - Data Mining - Practical Machine Learning Tools and Techniques [link](https://cdn.preterhuman.net/texts/science_and_technology/artificial_intelligence/Data%20Mining%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%202d%20ed%20-%20Morgan%20Kaufmann.pdf)
 
 ## Machine Learning
 - Machine Learning Engineering by Andriy Burkov [link](http://www.mlebook.com/wiki/doku.php)
 - The Hundred-Page Machine Learning Book [link](http://themlbook.com/wiki/doku.php)
 - Real World Machine Learning [link](https://www.manning.com/books/real-world-machine-learning)
-- Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/mackay/itila/book.html)
-- Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/)
+- Information Theory, Inference, and Learning Algorithms [link](http://www.inference.phy.cam.ac.uk/mackay/itila/book.html)
+- Gaussian Processes for Machine Learning [link](http://www.gaussianprocess.org/gpml/chapters/)
 - Mining Massive Datasets [link](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
 - Introduction to Machine Learning by Alex Smola and S.V.N. Vishwanathan [link](https://alex.smola.org/drafts/thebook.pdf)
 - Practical Artificial Intelligence Programming in Java [link](https://www.saylor.org/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)
@@ -28,15 +28,14 @@
 - Machine Learning, Neural and Statistical Classification [link](https://www1.maths.leeds.ac.uk/~charles/statlog/)
 - Bayesian Reasoning and Machine Learning [link](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 - Machine Learning Systems [link](https://www.manning.com/books/machine-learning-systems)
-- Graph-Powered Machine Learning](https://www.manning.com/books/graph-powered-machine-learning) - Alessandro Negro. Combining graph theory and models to improve machine learning projects
+- Graph-Powered Machine Learning *by Alessandro Negro* [link](https://www.manning.com/books/graph-powered-machine-learning)
 - Grokking Machine Learning [link](https://www.manning.com/books/grokking-machine-learning)
 - Foundations of Machine Learning *by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar* [link](https://cs.nyu.edu/~mohri/mlbook/)
 - Understanding Machine Learning *by Shai Shalev-Shwartz and Shai Ben-David* [link](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 - How Machine Learning Works *by Mostafa Samir* [link](https://www.manning.com/books/how-machine-learning-works)
- Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp) - Alexey Grigorev - a project-based approach on learning machine learning
-- AI Summer](https://theaisummer.com/) A blog to help you learn Deep Learning an Artificial Intelligence
-- Python Data Science Handbook- Oriely](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
-- Mathematics for Machine Learning](https://mml-book.github.io/)
+- Machine Learning Bookcamp *by Alexey Grigorev* [link](https://www.manning.com/books/machine-learning-bookcamp) 
+- Python Data Science Handbook- Oriely [link](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
+- Mathematics for Machine Learning [link](https://mml-book.github.io/)
 - Approaching Almost any Machine learning problem Abhishek Thakur [link](https://github.com/abhishekkrthakur/approachingalmost)
 - AI-Powered Search [link](https://www.manning.com/books/ai-powered-search)
 
@@ -96,7 +95,7 @@
 - Think Bayes [link](https://greenteapress.com/wp/think-bayes/)
  
 ## Reinforcement Learning
-- Reinforcement Learning: - An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
+- Reinforcement Learning: - An Introduction [link](http://incompleteideas.net/book/the-book-2nd.html)
 - Reinforcement Learning [link](https://www.intechopen.com/books/reinforcement_learning)
 
 ## Books Focused on Programing
