@@ -7,18 +7,17 @@
 - Machine Learning for Mortals (Mere and Otherwise) [link](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) 
 
 ## Big Data
-- Fighting Churn With Data *by Carl Gold* [link](https://www.manning.com/books/fighting-churn-with-data) 
 - Data Mining - Practical Machine Learning Tools and Techniques [link](https://cdn.preterhuman.net/texts/science_and_technology/artificial_intelligence/Data%20Mining%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%202d%20ed%20-%20Morgan%20Kaufmann.pdf)
-
+- Mining Massive Datasets [link](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
+- Fighting Churn With Data *by Carl Gold* [link](https://www.manning.com/books/fighting-churn-with-data) 
+ 
 ## Machine Learning
 - Machine Learning Engineering by Andriy Burkov [link](http://www.mlebook.com/wiki/doku.php)
 - The Hundred-Page Machine Learning Book [link](http://themlbook.com/wiki/doku.php)
 - Real World Machine Learning [link](https://www.manning.com/books/real-world-machine-learning)
 - Information Theory, Inference, and Learning Algorithms [link](http://www.inference.phy.cam.ac.uk/mackay/itila/book.html)
 - Gaussian Processes for Machine Learning [link](http://www.gaussianprocess.org/gpml/chapters/)
-- Mining Massive Datasets [link](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
 - Introduction to Machine Learning by Alex Smola and S.V.N. Vishwanathan [link](https://alex.smola.org/drafts/thebook.pdf)
-- Practical Artificial Intelligence Programming in Java [link](https://www.saylor.org/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)
 - Introduction to Machine Learning by Amnon Shashua [link](https://arxiv.org/pdf/0904.3664v1.pdf)
 - Machine Learning [link](https://www.intechopen.com/books/machine_learning)
 - A Quest for AI [link](https://ai.stanford.edu/~nilsson/QAI/qai.pdf)
@@ -38,7 +37,7 @@
 - Approaching Almost any Machine learning problem Abhishek Thakur [link](https://github.com/abhishekkrthakur/approachingalmost)
 - AI-Powered Search [link](https://www.manning.com/books/ai-powered-search)
 - The fastai book *by Howard, J. and Gugger, S.* [link](https://github.com/fastai/fastbook)
-- 
+
 ## Deep Learning
 - Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville [link](https://www.deeplearningbook.org/)
 - Grokking Deep Learning [link](https://www.manning.com/books/grokking-deep-learning) 
@@ -99,6 +98,8 @@
 - Reinforcement Learning [link](https://www.intechopen.com/books/reinforcement_learning)
 
 ## Books Focused on Programing
+
+*R*
 - Advanced R Programming [link](http://adv-r.had.co.nz)
 - Practical Regression and Anova using R [link](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf)
 - R practicals [link](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf)
@@ -106,11 +107,16 @@
 - The R Inferno [link](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
 - The Art of R Programming [link](http://heather.cs.ucdavis.edu/~matloff/132/NSPpart.pdf)
 - An Introduction to Statistical Learning with Applications in R [link](https://www-bcf.usc.edu/~gareth/ISL/)
-- Deep Learning with Python [link](https://www.manning.com/books/deep-learning-with-python)
-- Deep Learning with JavaScript [link](https://www.manning.com/books/deep-learning-with-javascript) 
 - R for Data Science: Import, Tidy, Transform, Visualize, and Model Data *by Wickham and Grolemund* [link](https://r4ds.had.co.nz/)
 - Advanced R *by Hadley Wickham* [link](http://adv-r.had.co.nz/)
+
+*Python*
+- Deep Learning with Python [link](https://www.manning.com/books/deep-learning-with-python)
 - Python Data Science Handbook *by Jake VanderPlas* [link](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf) [GitHub Notebooks Repository](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+*Java & JavaScript*
+- Practical Artificial Intelligence Programming in Java [link](https://www.saylor.org/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)
+- Deep Learning with JavaScript [link](https://www.manning.com/books/deep-learning-with-javascript) 
 
 ## Vision
 - Pattern Recognition and Machine Learning [link](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
