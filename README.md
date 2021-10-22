@@ -7,9 +7,8 @@ Links to free (mostly?) resources for learning about Data Science
 ## [Blogs](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Blogs.md)
 *Blogs discussing AI/ML topics*
 
-## [Competitions]()
+## [Competitions](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Competitions.md)
 *Competitions with prize money!*
-- Kaggle [link]()
 
 ## [Important people](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Important%20People.md)
 *Links to the homepages of the most influencial people in AI/ML/DL*
