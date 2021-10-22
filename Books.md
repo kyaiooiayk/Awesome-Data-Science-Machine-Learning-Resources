@@ -1,5 +1,5 @@
 # Books
-*Links to (mostly?) freely available books*
+*Links to freely (mostly?) available books*
 
 ## For Newbies
 - A First Encounter with Machine Learning [link](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf)
