@@ -11,6 +11,10 @@
 - Mining Massive Datasets [link](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
 - Fighting Churn With Data *by Carl Gold* [link](https://www.manning.com/books/fighting-churn-with-data) 
  
+## Calculus
+- Calculus Made Easy [link](https://github.com/lahorekid/Calculus/blob/master/Calculus%20Made%20Easy.pdf)
+- Calculus by ron larson [link](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/860/%20CalculusTextbook.pdf)
+
 ## Machine Learning
 - Machine Learning Engineering by Andriy Burkov [link](http://www.mlebook.com/wiki/doku.php)
 - The Hundred-Page Machine Learning Book [link](http://themlbook.com/wiki/doku.php)
@@ -67,7 +71,6 @@
 - Natural Language Processing in Action [link](https://www.manning.com/books/natural-language-processing-in-action)
 - Real-World Natural Language Processing [link](https://www.manning.com/books/real-world-natural-language-processing)
 - PyTorch-Artificial-Intelligence-Fundamentals [notebooks](https://github.com/PacktPublishing/PyTorch-Artificial-Intelligence-Fundamentals)
-
 
 ## Information Retrieval
 - An Introduction to Information Retrieval [link](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
@@ -137,6 +140,5 @@
 ## Optimisation
 - Convex Optimization [link](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
-## Calculus
-- Calculus Made Easy [link](https://github.com/lahorekid/Calculus/blob/master/Calculus%20Made%20Easy.pdf)
-- Calculus by ron larson [link](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/860/%20CalculusTextbook.pdf)
+## XGBoost
+- Hands-On Gradient Boosting with XGBoost and scikit-learn *by Corey Wade* [notebooks](https://github.com/PacktPublishing/Hands-On-Gradient-Boosting-with-XGBoost-and-Scikit-learn)
