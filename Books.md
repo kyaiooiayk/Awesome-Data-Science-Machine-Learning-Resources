@@ -66,6 +66,8 @@
 - NLTK [link](https://www.nltk.org/book/)
 - Natural Language Processing in Action [link](https://www.manning.com/books/natural-language-processing-in-action)
 - Real-World Natural Language Processing [link](https://www.manning.com/books/real-world-natural-language-processing)
+- PyTorch-Artificial-Intelligence-Fundamentals [notebooks](https://github.com/PacktPublishing/PyTorch-Artificial-Intelligence-Fundamentals)
+
 
 ## Information Retrieval
 - An Introduction to Information Retrieval [link](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
