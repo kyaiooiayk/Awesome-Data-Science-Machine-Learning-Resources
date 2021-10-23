@@ -1,6 +1,6 @@
 # Other Git-Hub resources
 *Links to other useful Git-Hub repositories providing a huge breath of additional resources*
-- https://github.com/jibinmathew69
+- https://github.com/jibinmathew69 *by Jibin Mathew* - authors of Hands-on Natural Language Processing with PyTorch and PyTorch Artificial Intelligence Fundamentals
 - https://github.com/gordicaleksa
 - https://github.com/josephmisiti
 - https://github.com/jakevdp
