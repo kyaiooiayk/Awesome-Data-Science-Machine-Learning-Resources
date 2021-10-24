@@ -10,6 +10,7 @@
 - Data Mining - Practical Machine Learning Tools and Techniques [link](https://cdn.preterhuman.net/texts/science_and_technology/artificial_intelligence/Data%20Mining%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%202d%20ed%20-%20Morgan%20Kaufmann.pdf)
 - Mining Massive Datasets [link](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
 - Fighting Churn With Data *by Carl Gold* [link](https://www.manning.com/books/fighting-churn-with-data) 
+- Large Scale Machine Learning with Python *by Sjardin, Bastiaan, Luca Massaron, and Alberto Boschetti* [notebooks](https://github.com/packtpublishing/large-scale-machine-learning-with-python)
  
 ## Calculus
 - Calculus Made Easy [link](https://github.com/lahorekid/Calculus/blob/master/Calculus%20Made%20Easy.pdf)
