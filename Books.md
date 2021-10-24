@@ -76,6 +76,7 @@
 - Mastering natural language processing with python *by Chopra, Deepti, Nisheeth Joshi, and Iti Mathur* [notebooks](https://github.com/PacktPublishing/Mastering-Natural-Language-Processing-with-Python)
 - Practical Natural Language Processing *by Sowmya Vajjala, Bodhisattwa P. Majumder, Anuj Gupta, Harshit Surana* [notebooks](https://github.com/practical-nlp/practical-nlp-code)
 - Python Natural Language Processing *by Jalaj Thanaki* [notebooks](https://github.com/PacktPublishing/Python-Natural-Language-Processing)
+- Natural language processing with Python: analyzing text with the natural language toolkit *by Bird, Steven, Ewan Klein, and Edward Loper* [notebooks](https://github.com/Sturzgefahr/Natural-Language-Processing-with-Python-Analyzing-Text-with-the-Natural-Language-Toolkit)
 
 ## Information Retrieval
 - An Introduction to Information Retrieval [link](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
