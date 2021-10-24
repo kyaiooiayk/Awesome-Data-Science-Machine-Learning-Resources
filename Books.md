@@ -53,6 +53,7 @@
 - Probabilistic Deep Learning with Python [link](https://www.manning.com/books/probabilistic-deep-learning-with-python)
 - Deep Learning with Structured Data [link](https://www.manning.com/books/deep-learning-with-structured-data)
 - Computer Vision: Algorithms and Applications [link](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
+- Deep learning with Python *by Chollet, Francois* [notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
 ## Forecasting
 - Forecasting: principles and practice [link](https://otexts.com/fpp2/)
