@@ -118,7 +118,7 @@
 
 *Python*
 - Deep Learning with Python [link](https://www.manning.com/books/deep-learning-with-python)
-- Python Data Science Handbook *by Jake VanderPlas* [link](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf) [GitHub Notebooks Repository](https://github.com/jakevdp/PythonDataScienceHandbook)
+- Python Data Science Handbook *by Jake VanderPlas* [link](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf) [Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
 - Large Scale Machine Learning with Python *by Sjardin, Bastiaan, Luca Massaron, and Alberto Boschetti* [notebooks](https://github.com/packtpublishing/large-scale-machine-learning-with-python)
 
 *Java & JavaScript*
