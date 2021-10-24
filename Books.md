@@ -73,6 +73,8 @@
 - Natural Language Processing in Action [link](https://www.manning.com/books/natural-language-processing-in-action)
 - Real-World Natural Language Processing [link](https://www.manning.com/books/real-world-natural-language-processing)
 - PyTorch-Artificial-Intelligence-Fundamentals [notebooks](https://github.com/PacktPublishing/PyTorch-Artificial-Intelligence-Fundamentals)
+- Mastering natural language processing with python *by Chopra, Deepti, Nisheeth Joshi, and Iti Mathur* [notebooks](https://github.com/PacktPublishing/Mastering-Natural-Language-Processing-with-Python)
+
 
 ## Information Retrieval
 - An Introduction to Information Retrieval [link](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
