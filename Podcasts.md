@@ -8,3 +8,4 @@
 - This Week in Machine Learning and AI Podcast, by *Sam Charrington* who gives a rundown of top stories in machine learning and artificial intelligence each week [link](https://twimlai.com/)
 - Partially Derivative *by Chris Albon, Jonathon Morgan and Vidya Spandana* [link](https://machinelearningmastery.com/machine-learning-podcasts/)
 - Linear Digressions by *by Ben Jaffe and Katie Malone* [link](https://lineardigressions.com/)
+- DeepMind: The Podcast *by Google* [link](https://deepmind.com/learning-resources/deepmind-the-podcast)
