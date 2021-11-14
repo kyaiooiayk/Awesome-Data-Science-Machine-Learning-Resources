@@ -45,8 +45,8 @@
 - The fastai book *by Howard, J. and Gugger, S.* [link](https://github.com/fastai/fastbook)
 
 ## Deep Learning
-- Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville [link](https://www.deeplearningbook.org/)
-- Grokking Deep Learning [link](https://www.manning.com/books/grokking-deep-learning) 
+- Deep Learning *by Ian Goodfellow and Yoshua Bengio and Aaron Courville* [link](https://www.deeplearningbook.org/)
+- Grokking Deep Learning *by Andrew W. Trask* [link](https://cdn.ttgtmedia.com/rms/pdf/grokking_deep_learning.pdf) 
 - Deep Learning for Search [link](https://www.manning.com/books/deep-learning-for-search) 
 - Deep Learning and the Game of Go [link](https://www.manning.com/books/deep-learning-and-the-game-of-go)
 - Machine Learning for Business [link](https://www.manning.com/books/machine-learning-for-business) 
