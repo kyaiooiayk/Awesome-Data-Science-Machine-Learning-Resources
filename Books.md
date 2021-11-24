@@ -1,11 +1,6 @@
 # Books
 *Links to freely (mostly?) available books with and withouth companion notebooks*
 
-## For Newbies
-- A First Encounter with Machine Learning [link](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf)
-- Machine Learning for Dummies [link](https://mscdss.ds.unipi.gr/wp-content/uploads/2018/02/Untitled-attachment-00056-2-1.pdf)
-- Machine Learning for Mortals (Mere and Otherwise) [link](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) 
-
 ## Big Data
 - Data Mining - Practical Machine Learning Tools and Techniques [link](https://cdn.preterhuman.net/texts/science_and_technology/artificial_intelligence/Data%20Mining%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%202d%20ed%20-%20Morgan%20Kaufmann.pdf)
 - Mining Massive Datasets [link](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
@@ -15,6 +10,9 @@
 ## Calculus
 - Calculus Made Easy [link](https://github.com/lahorekid/Calculus/blob/master/Calculus%20Made%20Easy.pdf)
 - Calculus by ron larson [link](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/860/%20CalculusTextbook.pdf)
+
+## Data
+- Storytelling with data *by Cole Nussabaumer Knaflic* [link](https://github.com/AmandaZou/Data-Science-books-/blob/master/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
 
 ## Machine Learning
 - Machine Learning Engineering by Andriy Burkov [link](http://www.mlebook.com/wiki/doku.php)
@@ -43,6 +41,11 @@
 - Approaching Almost any Machine learning problem Abhishek Thakur [link](https://github.com/abhishekkrthakur/approachingalmost)
 - AI-Powered Search [link](https://www.manning.com/books/ai-powered-search)
 - The fastai book *by Howard, J. and Gugger, S.* [link](https://github.com/fastai/fastbook)
+
+## (For) Newbies
+- A First Encounter with Machine Learning [link](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf)
+- Machine Learning for Dummies [link](https://mscdss.ds.unipi.gr/wp-content/uploads/2018/02/Untitled-attachment-00056-2-1.pdf)
+- Machine Learning for Mortals (Mere and Otherwise) [link](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) 
 
 ## Deep Learning
 - Deep Learning *by Ian Goodfellow and Yoshua Bengio and Aaron Courville* [link](https://www.deeplearningbook.org/)
