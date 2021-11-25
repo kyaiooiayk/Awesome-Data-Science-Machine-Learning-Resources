@@ -15,7 +15,7 @@
 - Storytelling with data *by Cole Nussabaumer Knaflic* [link](https://github.com/AmandaZou/Data-Science-books-/blob/master/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
 
 ## Machine Learning
-- Machine Learning Engineering by Andriy Burkov [link](http://www.mlebook.com/wiki/doku.php)
+- Machine Learning Engineering *by Andriy Burkov* [link](http://www.mlebook.com/wiki/doku.php)
 - The Hundred-Page Machine Learning Book [link](http://themlbook.com/wiki/doku.php)
 - Real World Machine Learning [link](https://www.manning.com/books/real-world-machine-learning)
 - Information Theory, Inference, and Learning Algorithms [link](http://www.inference.phy.cam.ac.uk/mackay/itila/book.html)
@@ -46,6 +46,7 @@
 - A First Encounter with Machine Learning [link](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf)
 - Machine Learning for Dummies [link](https://mscdss.ds.unipi.gr/wp-content/uploads/2018/02/Untitled-attachment-00056-2-1.pdf)
 - Machine Learning for Mortals (Mere and Otherwise) [link](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) 
+- Machine learning yearning *by Andrew Ng* [link](https://github.com/AmandaZou/Data-Science-books-/blob/master/Ng-Machine%20learning%20yearning.pdf)
 
 ## Deep Learning
 - Deep Learning *by Ian Goodfellow and Yoshua Bengio and Aaron Courville* [link](https://www.deeplearningbook.org/)
