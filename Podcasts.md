@@ -9,3 +9,4 @@
 - Partially Derivative *by Chris Albon, Jonathon Morgan and Vidya Spandana* [link](https://machinelearningmastery.com/machine-learning-podcasts/)
 - Linear Digressions by *by Ben Jaffe and Katie Malone* [link](https://lineardigressions.com/)
 - DeepMind: The Podcast *by Google* [link](https://deepmind.com/learning-resources/deepmind-the-podcast)
+- The Data Exchange *by Ben Lorica* [link](https://thedataexchange.media/)
