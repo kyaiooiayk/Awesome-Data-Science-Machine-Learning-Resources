@@ -68,6 +68,7 @@
 
 ## MLOps
 - MLOps Engineering at Scale [link](https://www.manning.com/books/mlops-engineering-at-scale)
+- Building the Data Lakehouse *by Bill Inmon*, required registration [link](https://databricks.com/p/ebook/building-the-data-lakehouse?utm_source=kdn-&utm_medium=thirdparty&utm_campaign=7013f000000LiABAA0&utm_content=email)
 
 ## Natural Language Processing
 - Coursera Course Book on NLP [link](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html)
@@ -83,7 +84,7 @@
 - Python Natural Language Processing *by Jalaj Thanaki* [notebooks](https://github.com/PacktPublishing/Python-Natural-Language-Processing)
 - Natural language processing with Python: analyzing text with the natural language toolkit *by Bird, Steven, Ewan Klein, and Edward Loper* [notebooks](https://github.com/Sturzgefahr/Natural-Language-Processing-with-Python-Analyzing-Text-with-the-Natural-Language-Toolkit)
 - Natural language processing with PyTorch: build intelligent language applications using deep learning *by Rao, Delip, and Brian McMahan* [notebooks](https://github.com/joosthub/PyTorchNLPBook)
-- 
+
 
 ## Information Retrieval
 - An Introduction to Information Retrieval [link](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
