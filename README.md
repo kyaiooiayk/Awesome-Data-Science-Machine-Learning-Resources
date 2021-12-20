@@ -32,7 +32,7 @@ Links to free (mostly?) resources for learning about Data Science
 *List of podcasts on ML/AI/DL* 
 
 ## [Resources](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Resources.md)
-*List of link to different kind of resources*
+*List of links to different kind of resources*
 
 ## [Scientific Articles](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Scientific%20Articles.md)
 *Scientific publications*
