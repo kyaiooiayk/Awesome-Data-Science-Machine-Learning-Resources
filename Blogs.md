@@ -13,3 +13,6 @@
 - Machine Learnign Mastery *by Jason Brownlee* [link](https://machinelearningmastery.com/)
 - Natural Intelligence, A science blog by *Sam Greydanus* [link](https://greydanus.github.io/)
 - Towards Data Science [link](https://towardsdatascience.com/)
+
+## Blogs dedicated to finance
+- [AlgoFin](https://algofin.substack.com/)
