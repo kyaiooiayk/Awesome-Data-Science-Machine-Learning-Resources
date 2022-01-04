@@ -8,3 +8,4 @@
 - https://github.com/fchollet *by François Chollet* - the creator of Keras and author of Deep Learning with Python, 2nd Edition (Manning Publications).
 - https://github.com/bentrevett *by Ben Trevett*
 https://github.com/karpathy *by Andrej Karpathy*
+- [Google Research official GitHub account](https://github.com/google-research)
