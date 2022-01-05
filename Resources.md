@@ -3,6 +3,7 @@
 
 ## ANNs
 - [Initialising neural networks, an interactive explanation](https://www.deeplearning.ai/ai-notes/initialization/)
+- [Paramter optimisation in ANNS, an interactive explanation](https://www.deeplearning.ai/ai-notes/optimization/)
 
 ## Feature Engineering
 - Types of Data and levels of measurement [link](https://homepage.stat.uiowa.edu/~rdecook/stat1010/notes/Section_2.1_2.2_data_types_and_errors.pdf)
