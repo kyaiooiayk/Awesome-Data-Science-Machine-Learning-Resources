@@ -1,5 +1,8 @@
 # Resources
-*List of links to different kind of resources. Mostly a list of good quality presentations.*
+*List of links to different kind of resources. Mostly a list of good quality presentations or article.*
+
+## ANNs
+- [Initialising neural networks, an interactive explanation](https://www.deeplearning.ai/ai-notes/initialization/)
 
 ## Feature Engineering
 - Types of Data and levels of measurement [link](https://homepage.stat.uiowa.edu/~rdecook/stat1010/notes/Section_2.1_2.2_data_types_and_errors.pdf)
