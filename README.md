@@ -34,6 +34,9 @@ Links to free (mostly?) resources for learning about Data Science
 ## [Resources](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Resources.md)
 *List of links to different kind of resources*
 
+## [Readings](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Readings.md)
+*A list of non-academic publications*
+
 ## [Scientific Articles](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Scientific%20Articles.md)
 *Scientific publications*
 
