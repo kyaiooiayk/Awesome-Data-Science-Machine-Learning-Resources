@@ -1,8 +1,8 @@
 # Interview Preparation
 *Links to websites/resources that prepare you for interviews*
 
-- Stratascratch: known list of questions asked at big tech companies interviews [link](https://www.stratascratch.com/)
-- Competitive programming on Topcoder [link](https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming)
-- YouTube videos *by Clément Mihailescu* on how to prepare a coding interview at big tech companies [link](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
-- List of interview questions *by Alexey Grigorev* [link](https://github.com/alexeygrigorev/data-science-interviews)
-- 
+- [Stratascratch](https://www.stratascratch.com/)) known list of questions asked at big tech companies interviews 
+- [Competitive programming on Topcoder](https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming)
+- [YouTube videos](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)) *by Clément Mihailescu* on how to prepare a coding interview at big tech companies
+- [List of interview questions](https://github.com/alexeygrigorev/data-science-interviews) *by Alexey Grigorev* 
+- [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) *by Chip Huyen*
