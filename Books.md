@@ -108,7 +108,7 @@
 - Probabilistic Programming & Bayesian Methods for Hackers [link](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 - Probability Theory: The Logic of Science [link](https://bayes.wustl.edu/etj/prob/book.pdf)- 
 - Probability & Statistics Cookbook [link](http://statistics.zone/)
-- The Elements of Statistical Learning: Data Mining, Inference, and Prediction [link](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- The Elements of Statistical Learning: Data Mining, Inference, and Prediction [link#1](https://web.stanford.edu/~hastie/ElemStatLearn/), [link#2](https://hastie.su.domains/Papers/ESLII.pdf)
 - Think Stats [link](https://www.greenteapress.com/thinkstats/)
 - Think Bayes [link](https://greenteapress.com/wp/think-bayes/)
  
