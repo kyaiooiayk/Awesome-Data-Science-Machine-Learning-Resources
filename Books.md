@@ -41,6 +41,7 @@
 - Approaching Almost any Machine learning problem Abhishek Thakur [link](https://github.com/abhishekkrthakur/approachingalmost)
 - AI-Powered Search [link](https://www.manning.com/books/ai-powered-search)
 - The fastai book *by Howard, J. and Gugger, S.* [link](https://github.com/fastai/fastbook)
+- Machine learning systems design *by Chip Huyen* [link](https://huyenchip.com/machine-learning-systems-design/toc.html)
 
 ## (For) Newbies
 - A First Encounter with Machine Learning [link](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf)
