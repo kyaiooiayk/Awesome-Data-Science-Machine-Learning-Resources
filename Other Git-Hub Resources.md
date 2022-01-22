@@ -9,3 +9,4 @@
 - https://github.com/bentrevett *by Ben Trevett*
 https://github.com/karpathy *by Andrej Karpathy*
 - [Google Research official GitHub account](https://github.com/google-research)
+- [Data professor by Chanin Nantasenamat](https://github.com/dataprofessor)
