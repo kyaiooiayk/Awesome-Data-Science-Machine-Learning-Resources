@@ -10,6 +10,9 @@ Links to free (mostly?) resources for learning about Data Science
 ## [Blogs](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Blogs.md)
 *Blogs discussing AI/ML topics*
 
+## [Certification](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Certification.md)
+*List of online certifications*
+
 ## [Competitions](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Competitions.md)
 *Competitions with prize money!*
 
