@@ -10,3 +10,4 @@
 https://github.com/karpathy *by Andrej Karpathy*
 - [Google Research official GitHub account](https://github.com/google-research)
 - [Data professor by Chanin Nantasenamat](https://github.com/dataprofessor)
+- [Sebastian Raschka, author of the "Python Machine Learning" book](https://github.com/rasbt)
