@@ -42,6 +42,8 @@
 - AI-Powered Search [link](https://www.manning.com/books/ai-powered-search)
 - The fastai book *by Howard, J. and Gugger, S.* [link](https://github.com/fastai/fastbook)
 - Machine learning systems design *by Chip Huyen* [link](https://huyenchip.com/machine-learning-systems-design/toc.html)
+- Python Machine Learning *by Sebastian Raschka* [notebooks](https://github.com/rasbt/python-machine-learning-book)
+- Machine Learning with PyTorch and Scikit-Learn *by Sebastian Raschka* [notebooks](https://github.com/rasbt/machine-learning-book)
 
 ## (For) Newbies
 - A First Encounter with Machine Learning [link](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf)
@@ -85,7 +87,6 @@
 - Python Natural Language Processing *by Jalaj Thanaki* [notebooks](https://github.com/PacktPublishing/Python-Natural-Language-Processing)
 - Natural language processing with Python: analyzing text with the natural language toolkit *by Bird, Steven, Ewan Klein, and Edward Loper* [notebooks](https://github.com/Sturzgefahr/Natural-Language-Processing-with-Python-Analyzing-Text-with-the-Natural-Language-Toolkit)
 - Natural language processing with PyTorch: build intelligent language applications using deep learning *by Rao, Delip, and Brian McMahan* [notebooks](https://github.com/joosthub/PyTorchNLPBook)
-
 
 ## Information Retrieval
 - An Introduction to Information Retrieval [link](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
