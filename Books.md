@@ -1,5 +1,5 @@
 # Books
-*Links to freely (mostly?) available books with and withouth companion notebooks*
+*Links to freely (mostly?) available books with and without their companion notebooks*
 
 ## Big Data
 - Data Mining - Practical Machine Learning Tools and Techniques [link](https://cdn.preterhuman.net/texts/science_and_technology/artificial_intelligence/Data%20Mining%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%202d%20ed%20-%20Morgan%20Kaufmann.pdf)
@@ -61,6 +61,7 @@
 - Deep Learning with Structured Data [link](https://www.manning.com/books/deep-learning-with-structured-data)
 - Computer Vision: Algorithms and Applications [link](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
 - Deep learning with Python *by Chollet, Francois* [notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
+- Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python *by Sebastian Raschka* [notebooks](https://github.com/rasbt/deep-learning-book)
 
 ## Forecasting
 - Forecasting: principles and practice [link](https://otexts.com/fpp2/)
