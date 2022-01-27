@@ -1,5 +1,5 @@
 
-# Certification
+# Certifications
 *List of online certifications. Link to the official website and some external resources.*
 
 
