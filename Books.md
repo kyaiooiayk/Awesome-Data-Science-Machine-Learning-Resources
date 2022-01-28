@@ -115,9 +115,10 @@
 - Think Stats [link](https://www.greenteapress.com/thinkstats/)
 - Think Bayes [link](https://greenteapress.com/wp/think-bayes/)
  
-## Reinforcement Learning
+## Human-in-the-loop, Reinforcement/Active Learning
 - Reinforcement Learning: - An Introduction [link](http://incompleteideas.net/book/the-book-2nd.html)
 - Reinforcement Learning [link](https://www.intechopen.com/books/reinforcement_learning)
+- Human-in-the-Loop Machine Learning *by Robert Monarch* [notebooks](https://github.com/rmunro/pytorch_active_learning)
 
 ## Books Focused on Programing
 
