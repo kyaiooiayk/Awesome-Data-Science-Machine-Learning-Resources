@@ -116,7 +116,7 @@
 - Think Bayes [link](https://greenteapress.com/wp/think-bayes/)
  
 ## Human-in-the-loop, Reinforcement/Active Learning
-- Reinforcement Learning: - An Introduction [link](http://incompleteideas.net/book/the-book-2nd.html)
+- Reinforcement Learning: - An Introduction *by Sutton adn Barto* [1st edition](http://incompleteideas.net/book/the-book-2nd.html) | [2nd edition](https://d18ky98rnyall9.cloudfront.net/Ph9QFZnEEemRfw7JJ0OZYA_808e8e7d9a544e1eb31ad11069d45dc4_RLbook2018.pdf?Expires=1643587200&Signature=RPs6xs41J~GOBi~8s1e1suzrbeth6yMK7DBbhZXN9sm8GK3IJbzteZP2rzWgjL~jriqn0s2az7KSsvyjaAC-oQ1KCCG6Xs8dLsrid6LxPvywiT43aMhLB~CT-IQ-IDOu~G9WRm0o8bMXfwD6Y~8uq~lx5JSKEffuYulPNFvtuDI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 - Reinforcement Learning [link](https://www.intechopen.com/books/reinforcement_learning)
 - Human-in-the-Loop Machine Learning *by Robert Monarch* [notebooks](https://github.com/rmunro/pytorch_active_learning)
 
