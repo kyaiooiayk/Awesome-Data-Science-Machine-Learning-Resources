@@ -50,3 +50,6 @@
 - [External Resource #1](https://github.com/artemk1337/TensorFlow-2-for-Deep-Learning-Specialization)
 - [External Resource #2](https://github.com/rayhanozzy/TensorFlow-2-for-Deep-Learning-Specialization-Coursera)
 - [External Resource #3](https://github.com/dfrivera/TensorFlow-2-for-Deep-Learning)
+
+## [Fundamentals of Reinforcement Learning]
+- [External Resource #1](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning)
