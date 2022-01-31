@@ -5,6 +5,7 @@
 - [Initialising neural networks, an interactive explanation](https://www.deeplearning.ai/ai-notes/initialization/)
 - [Paramter optimisation in ANNS, an interactive explanation](https://www.deeplearning.ai/ai-notes/optimization/)
 - [Interactive in-the-browser MLP](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.82130&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+- [Annoted PyTorch implementations of NNs and related algorithms](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
 ## Feature Engineering
 - Types of Data and levels of measurement [link](https://homepage.stat.uiowa.edu/~rdecook/stat1010/notes/Section_2.1_2.2_data_types_and_errors.pdf)
