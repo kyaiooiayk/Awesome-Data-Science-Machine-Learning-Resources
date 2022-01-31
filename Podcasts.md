@@ -12,3 +12,4 @@
 - [The Data Exchange *by Ben Lorica* ](https://thedataexchange.media/)
 - [Self-driving cars *by Dr. Lance Eliot*](https://ai-selfdriving-cars.libsyn.com/website)
 - [DeepMind: The Podcast *by Hannah Fry*](https://link.chtbl.com/DeepMind)
+- [Podcasts *by thoughtworks*](https://www.thoughtworks.com/insights/podcasts)
