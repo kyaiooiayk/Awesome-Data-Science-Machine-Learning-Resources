@@ -1,8 +1,9 @@
-## [News]()
+## News
 **News on AI/ML/DL topics**
 
-- analyticSteps [link](https://www.analyticssteps.com/news)
-- Data Science Central [link](https://www.datasciencecentral.com/)
-- KDnuggest *by  Gregory Piatetsky-Shapiro & Matthew Mayo* [link](https://www.kdnuggets.com/)
-- UNITEAI [link](https://www.unite.ai/)
-- DeepAI [link](https://deepai.org/news)
+- [analyticSteps](https://www.analyticssteps.com/news)
+- [Data Science Central](https://www.datasciencecentral.com/)
+- [KDnuggest *by  Gregory Piatetsky-Shapiro & Matthew Mayo*](https://www.kdnuggets.com/)
+- [UNITEAI](https://www.unite.ai/)
+- [DeepAI](https://deepai.org/news)
+- [Data Science Central](https://www.datasciencecentral.com/)
