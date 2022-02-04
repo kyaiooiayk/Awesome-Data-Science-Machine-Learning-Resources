@@ -25,6 +25,9 @@ Links to free (mostly?) resources for learning about Data Science
 ## [Mailing list](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Mailing%20List.md)
 *Hopefully they'll not spam you every day!*
 
+## [Modelling]()
+*Links to resources worth of reading*
+
 ## [News](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/News.md)
 *News on AI/ML/DL topics*
 
