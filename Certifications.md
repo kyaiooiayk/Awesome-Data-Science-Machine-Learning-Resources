@@ -60,3 +60,4 @@
 - [External Resource #3](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization)
 - [External Resource #4](https://github.com/Niangmohamed/Reinforcement-Learning-Specialization/tree/master/Project)
 - [External Resource #5](https://github.com/adityajn105/Reinforcement-Learning-Coursera-Solutions)
+- [External Resources #6](https://github.com/jmrf/Reinforcement-Learning-University-Alberta)
