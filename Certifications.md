@@ -2,6 +2,10 @@
 # Certifications
 *List of online certifications. Link to the official website and some external resources.*
 
+## Main online learning platforms
+- [Coursera](https://www.coursera.org/)
+- [edX](https://www.edx.org/)
+
 ## [Advanced Data Science with IBM Specialization *on Coursera*](https://www.coursera.org/specializations/advanced-data-science-ibm)
 - As a coursera certified specialization completer you will have a proven deep understanding on massive parallel  data processing, data exploration and visualization, and advanced  machine learning & deep learning. You'll understand the  mathematical foundations behind all machine learning & deep learning  algorithms. You can apply knowledge in practical use cases, justify  architectural decisions, understand the characteristics of  different algorithms, frameworks & technologies & how they  impact model performance & scalability. If you choose to take this specialization and earn the Coursera specialization certificate, you will also earn an IBM digital badge.  To find out more about IBM digital badges follow the link ibm.biz/badging.
 - [External Resource #1](https://github.com/codeamt/IBM-Advanced-Data-Science)
