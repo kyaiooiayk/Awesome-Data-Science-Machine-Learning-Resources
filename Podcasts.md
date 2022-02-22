@@ -13,3 +13,4 @@
 - [Self-driving cars *by Dr. Lance Eliot*](https://ai-selfdriving-cars.libsyn.com/website)
 - [DeepMind: The Podcast *by Hannah Fry*](https://link.chtbl.com/DeepMind)
 - [Podcasts *by thoughtworks*](https://www.thoughtworks.com/insights/podcasts)
+- [SWD (Storytelling With Data by *Cole Nussbaumer Knaflic*) podcast](https://www.storytellingwithdata.com/podcast)
