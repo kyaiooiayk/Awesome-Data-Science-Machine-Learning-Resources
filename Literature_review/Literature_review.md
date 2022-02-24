@@ -25,5 +25,8 @@ This repository provides a list of either literature review or methods compariso
 ## Interpetrability
 - []
 
+## Large scale training
+- [Survey on Large Scale Neural Network Training](https://arxiv.org/abs/2202.10435)
+
 ## Finance
 - [2020 | Deep learning in finance and banking: A literature review and classification](https://fbr.springeropen.com/articles/10.1186/s11782-020-00082-6)
