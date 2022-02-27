@@ -16,6 +16,7 @@ This repository provides a list of either literature review or methods compariso
 - [2009 | Benchmarking binary classification models on data sets with different degrees of imbalance](https://link.springer.com/article/10.1007/s11704-009-0027-1)
 - [2009 | Comparing the performance of different neural networks for binary classification problems](https://ieeexplore.ieee.org/abstract/document/5340935)
 - [2009 | CLASSIFICATION OF IMBALANCED DATA: A REVIEW](https://www.worldscientific.com/doi/abs/10.1142/S0218001409007326)
+- [2009 | An experimental comparison of performance measures for classification](https://www.sciencedirect.com/science/article/abs/pii/S0167865508002687)
 - [2008 | A comparison of the performance of threshold criteria for binary classification in terms of predicted prevalence and kappa](https://www.sciencedirect.com/science/article/abs/pii/S0304380008002275)
 - [2006 | Machine learning: a review of classification and combining techniques](https://link.springer.com/article/10.1007/s10462-007-9052-3)
 - [2002 | A Comparison of State-of-the-Art Classification Techniques for Expert Automobile Insurance Claim Fraud Detection](https://www.jstor.org/stable/1558683)
