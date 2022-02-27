@@ -19,6 +19,7 @@ This repository provides a list of either literature review or methods compariso
 - [2006 | Machine learning: a review of classification and combining techniques](https://link.springer.com/article/10.1007/s10462-007-9052-3)
 - [2002 | A Comparison of State-of-the-Art Classification Techniques for Expert Automobile Insurance Claim Fraud Detection](https://www.jstor.org/stable/1558683)
 
+
 **Blogs**
 - [2021 | Tabular Data Binary Classification: All Tips and Tricks from 5 Kaggle Competitions](https://neptune.ai/blog/tabular-data-binary-classification-tips-and-tricks-from-5-kaggle-competitions)
 - [Tour of Evaluation Metrics for Imbalanced Classification](https://machinelearningmastery.com/tour-of-evaluation-metrics-for-imbalanced-classification/)
