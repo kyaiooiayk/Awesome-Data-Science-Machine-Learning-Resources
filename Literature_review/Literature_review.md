@@ -36,6 +36,7 @@ This repository provides a list of either literature review or methods compariso
 - [2020 | Deep learning in finance and banking: A literature review and classification](https://fbr.springeropen.com/articles/10.1186/s11782-020-00082-6)
 
 ## Timeseries analysis
+- [1999| Timestamps: main issues on their use and implementation](https://ieeexplore.ieee.org/document/805196)
 
 **Blogs**
-- [List of timestamp option](https://help.sumologic.com/03Send-Data/Sources/04Reference-Information-for-Sources/Timestamps%2C-Time-Zones%2C-Time-Ranges%2C-and-Date-Formats)
+- [List of timestamp's options](https://help.sumologic.com/03Send-Data/Sources/04Reference-Information-for-Sources/Timestamps%2C-Time-Zones%2C-Time-Ranges%2C-and-Date-Formats)
