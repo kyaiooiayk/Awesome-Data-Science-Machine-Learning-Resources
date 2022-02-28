@@ -1,16 +1,18 @@
 # Interview Preparation
 *Links to websites/resources that prepare you for interviews*
 
-## Technichal preparation
-- [Stratascratch](https://www.stratascratch.com/) known list of questions asked at big tech companies interviews 
-- [Competitive programming on Topcoder](https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming)
+## Videos
 - [YouTube videos](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g) *by Clément Mihailescu* on how to prepare a coding interview at big tech companies
+
+## List of interview questions
 - [List of interview questions](https://github.com/alexeygrigorev/data-science-interviews) *by Alexey Grigorev* 
 - [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) *by Chip Huyen*
 
 ## Programming
 - [Leetcode](https://leetcode.com/)
-
+- [Stratascratch](https://www.stratascratch.com/)
+- [Competitive programming on Topcoder](https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming)
+- 
 ## Blogs/articles
 - [(Hopefully almost) everything you need to know about data science interviews (EU perspective)](https://www.reddit.com/r/datascience/comments/syjt0c/hopefully_almost_everything_you_need_to_know/)
 - [2021 | Have DS interviews gotten harder in the past few years?](https://www.teamblind.com/post/Have-DS-interviews-gotten-harder-in-the-past-few-years-WbYfzXbE)
