@@ -3,6 +3,7 @@
 
 ## Videos
 - [YouTube videos](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g) *by Clément Mihailescu* on how to prepare a coding interview at big tech companies
+- [Facebook Data Science Interview Prep Video- Closed Caption](https://vimeo.com/385283671/ec3432147b)
 
 ## List of interview questions
 - [List of interview questions](https://github.com/alexeygrigorev/data-science-interviews) *by Alexey Grigorev* 
