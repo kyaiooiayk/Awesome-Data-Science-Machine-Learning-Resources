@@ -24,6 +24,7 @@ This repository provides a list of either literature review or methods compariso
 **Blogs**
 - [2021 | Tabular Data Binary Classification: All Tips and Tricks from 5 Kaggle Competitions](https://neptune.ai/blog/tabular-data-binary-classification-tips-and-tricks-from-5-kaggle-competitions)
 - [Tour of Evaluation Metrics for Imbalanced Classification](https://machinelearningmastery.com/tour-of-evaluation-metrics-for-imbalanced-classification/)
+- [Self-contatined tutorial on ROC](https://www.sheffield.ac.uk/polopoly_fs/1.885164!/file/83_ROCCurves.pdf)
 
 ## Interpetrability
 - []
