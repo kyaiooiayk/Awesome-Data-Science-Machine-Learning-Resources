@@ -1,7 +1,7 @@
 # University Courses
 *Links to some university courses homepages where the instructors published notes, codes and much more*
 
-- [Cornell University, CS6787 Advanced Machine Learning Systems](link](http://www.cs.cornell.edu/courses/cs6787/2021fa/)
+- [Cornell University, CS6787 Advanced Machine Learning Systems]((http://www.cs.cornell.edu/courses/cs6787/2021fa/)
 - [Cornell University, Machine Learning CS4780/CS5780](https://www.cs.cornell.edu/courses/cs4780/2018sp/page16/)
 - [Cornell University, Principles of Large-Scale Machine Learning CS4787](https://www.cs.cornell.edu/courses/cs4787/2020sp/)
 - [MIT Recognizing and Learning Object Categories](https://people.csail.mit.edu/torralba/shortCourseRLOC/index.html)
@@ -14,3 +14,4 @@
 - [Stanford University, CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 - [Toronto University, CSC321 Introduction to Neural Networks and Machine Learning](http://www.cs.toronto.edu/~tijmen/csc321/)
 - [Stanford University, CS230 Deep Learning](https://cs230.stanford.edu/)
+- [Stanford University, EE269 Signal Processing for Machine Learning](http://web.stanford.edu/class/ee269/slides.html)
