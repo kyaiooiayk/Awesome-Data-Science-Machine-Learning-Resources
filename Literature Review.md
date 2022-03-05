@@ -20,7 +20,6 @@ This repository provides a list of either literature review or methods compariso
 - [2006 | Machine learning: a review of classification and combining techniques](https://link.springer.com/article/10.1007/s10462-007-9052-3)
 - [2002 | A Comparison of State-of-the-Art Classification Techniques for Expert Automobile Insurance Claim Fraud Detection](https://www.jstor.org/stable/1558683)
 
-
 **Blogs**
 - [2021 | Tabular Data Binary Classification: All Tips and Tricks from 5 Kaggle Competitions](https://neptune.ai/blog/tabular-data-binary-classification-tips-and-tricks-from-5-kaggle-competitions)
 - [Tour of Evaluation Metrics for Imbalanced Classification](https://machinelearningmastery.com/tour-of-evaluation-metrics-for-imbalanced-classification/)
@@ -37,7 +36,15 @@ This repository provides a list of either literature review or methods compariso
 - [2020 | Deep learning in finance and banking: A literature review and classification](https://fbr.springeropen.com/articles/10.1186/s11782-020-00082-6)
 
 ## Timeseries analysis
-- [1999| Timestamps: main issues on their use and implementation](https://ieeexplore.ieee.org/document/805196)
+- [1999 | Timestamps: main issues on their use and implementation](https://ieeexplore.ieee.org/document/805196)
 
 **Blogs**
 - [List of timestamp's options](https://help.sumologic.com/03Send-Data/Sources/04Reference-Information-for-Sources/Timestamps%2C-Time-Zones%2C-Time-Ranges%2C-and-Date-Formats)
+- [Deep learning: the final frontier for signal processing and time series analysis?](https://alexrachnog.medium.com/deep-learning-the-final-frontier-for-signal-processing-and-time-series-analysis-734307167ad6)
+
+## Signal processing
+
+**Blogs**
+- [2020 | Deep Learning for Signal Processing: What You Need to Know](https://www.kdnuggets.com/2020/07/deep-learning-signal-processing.html)
+
+
