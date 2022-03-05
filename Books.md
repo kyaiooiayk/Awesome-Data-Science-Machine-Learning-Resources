@@ -37,13 +37,20 @@
 - Understanding Machine Learning *by Shai Shalev-Shwartz and Shai Ben-David* [link](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 - How Machine Learning Works *by Mostafa Samir* [link](https://www.manning.com/books/how-machine-learning-works)
 - Machine Learning Bookcamp *by Alexey Grigorev* [link](https://www.manning.com/books/machine-learning-bookcamp) 
-- Mathematics for Machine Learning [link](https://mml-book.github.io/)
 - Approaching Almost any Machine learning problem Abhishek Thakur [link](https://github.com/abhishekkrthakur/approachingalmost)
 - AI-Powered Search [link](https://www.manning.com/books/ai-powered-search)
 - The fastai book *by Howard, J. and Gugger, S.* [link](https://github.com/fastai/fastbook)
 - Machine learning systems design *by Chip Huyen* [link](https://huyenchip.com/machine-learning-systems-design/toc.html)
 - Python Machine Learning *by Sebastian Raschka* [notebooks](https://github.com/rasbt/python-machine-learning-book)
 - Machine Learning with PyTorch and Scikit-Learn *by Sebastian Raschka* [notebooks](https://github.com/rasbt/machine-learning-book)
+
+## Math for Machine Learning
+- [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares *by Stephen Boyd and Lieven Vandenberghe*](https://web.stanford.edu/~boyd/vmls/)
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+- [Linear Algebra *by Shilov*](https://cosmathclub.files.wordpress.com/2014/10/georgi-shilov-linear-algebra4.pdf)
+- [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW.html)
+- [Linear Algebra, Theory, and Applications](https://math.byu.edu/~klkuttle/Linearalgebra.pdf)
 
 ## (For) Newbies
 - A First Encounter with Machine Learning [link](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf)
@@ -148,12 +155,6 @@
 - Pattern Recognition and Machine Learning [link](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - A Probabilistic Theory of Pattern Recognition [link](https://www.szit.bme.hu/~gyorfi/pbook.pdf)
 
-## Linear Algebra
-* The Matrix Cookbook [link](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
-* Linear Algebra by Shilov [link](https://cosmathclub.files.wordpress.com/2014/10/georgi-shilov-linear-algebra4.pdf)
-* Linear Algebra Done Wrong [link](https://www.math.brown.edu/~treil/papers/LADW/LADW.html)
-* Linear Algebra, Theory, and Applications [link](https://math.byu.edu/~klkuttle/Linearalgebra.pdf)
-
 ## Numerical methods
 - Applied Numerical Computing [link](https://www.seas.ucla.edu/~vandenbe/ee133a.html)
 - Mathematics for Machine Learning *by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong* [link](https://mml-book.github.io/)
@@ -163,3 +164,7 @@
 
 ## XGBoost
 - Hands-On Gradient Boosting with XGBoost and scikit-learn *by Corey Wade* [notebooks](https://github.com/PacktPublishing/Hands-On-Gradient-Boosting-with-XGBoost-and-Scikit-learn)
+
+## Time series
+- [
+Signal Processing for Communications *by Paolo Prandoni and Martin Vetterli*](https://www.sp4comm.org/)
