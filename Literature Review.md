@@ -1,8 +1,14 @@
 # Literature review
 This repository provides a list of either literature review or methods comparisons. No other resources are listed here. Essentially, anything giving an overview of methods or something which provides some guidance between the zoo of model once faces. Ordered by the most recent to the oldest published.
 
+## Audio
+
+**Blog**
+- [Audio Deep Learning Made Simple (Part 1): State-of-the-Art Techniques](https://towardsdatascience.com/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504)
+- [Audio Deep Learning Made Simple (Part 2): Why Mel Spectrograms perform better](https://towardsdatascience.com/audio-deep-learning-made-simple-part-2-why-mel-spectrograms-perform-better-aad889a93505)
+
 ## Classification
-**Scientific articles**
+**Scientific Articles**
 
 - [2021 | A literature review on one-class classification and its potential applications in big data](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00514-x)
 - [2019 | Performance Measures for Binary Classification](https://www.sciencedirect.com/science/article/pii/B9780128096338203518?via%3Dihub)
