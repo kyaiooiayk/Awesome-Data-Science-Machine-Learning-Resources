@@ -68,3 +68,7 @@
 - [External Resource #4](https://github.com/Niangmohamed/Reinforcement-Learning-Specialization/tree/master/Project)
 - [External Resource #5](https://github.com/adityajn105/Reinforcement-Learning-Coursera-Solutions)
 - [External Resource #6](https://github.com/jmrf/Reinforcement-Learning-University-Alberta)
+
+## AWS certified courses
+- [DO's and DONT's while preparing for Amazon Machine Learning Specialty](https://www.linkedin.com/pulse/dos-donts-while-preparing-amazon-machine-learning-specialty-semaan/)
+- [AWS Certified ML Specialty: tutto quello che c'è da sapere](https://allaboutdata.substack.com/p/aws-certified-ml-specialty-tutto?s=r)
