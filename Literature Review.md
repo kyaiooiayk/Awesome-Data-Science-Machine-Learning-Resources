@@ -1,6 +1,11 @@
 # Literature review
 This repository provides a list of either literature review or methods comparisons. No other resources are listed here. Essentially, anything giving an overview of methods or something which provides some guidance between the zoo of model once faces. Ordered by the most recent to the oldest published.
 
+## Autoencoder
+
+**Blog**
+- [Introduction to variational autoencoders](https://jxmo.io/posts/variational-autoencoders)
+
 ## Audio
 
 **Blog**
@@ -33,8 +38,10 @@ This repository provides a list of either literature review or methods compariso
 - [Self-contatined tutorial on ROC](https://www.sheffield.ac.uk/polopoly_fs/1.885164!/file/83_ROCCurves.pdf)
 - [Classification: ROC Curve and AUC](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
 
-## Interpetrability
-- []
+## XAI (Explainable AI)
+
+**Blogs**
+- [Explainable Machine Learning in NLP: Methods and Evaluation](https://peterbhase.github.io/files/ExplainableMachineLearninginNLPNECSlides.pdf)
 
 ## Large scale training
 - [Survey on Large Scale Neural Network Training](https://arxiv.org/abs/2202.10435)
