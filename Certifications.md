@@ -71,9 +71,10 @@
 
 ## AWS certified courses
 - From AWS website, there are 4 certification level.
-  - **Step 1. Certified Cloud Practitioner (CCP)** This certificate is targeted for Sales, Support, Managerial roles who need a basic understanding of AWS capabilities. It doesn't require previous experience with AWS. The course introduces different AWS software offerings, focusing on core services such as EC2 (compute), S3 (storage) and how to build secured, scalable, fault-tolerant applications on the cloud. You learn about cloud security and steps involved in migrating an on-premise solution to the cloud, how to estimate the cost for a new solution and differences in various support plans. **Experience required:** if you already have more than 1-year of experience on AWS and understand different AWS services, you might skip this one.
+  - **Step 1 -  Certified Cloud Practitioner (CCP)** This certificate is targeted for Sales, Support, Managerial roles who need a basic understanding of AWS capabilities. It doesn't require previous experience with AWS. The course introduces different AWS software offerings, focusing on core services such as EC2 (compute), S3 (storage) and how to build secured, scalable, fault-tolerant applications on the cloud. You learn about cloud security and steps involved in migrating an on-premise solution to the cloud, how to estimate the cost for a new solution and differences in various support plans. **Experience required:** if you already have more than 1-year of experience on AWS and understand different AWS services, you might skip this one.
   - ****
+**Experience required:** 
 
-**Useful resources**
-- [DO's and DONT's while preparing for Amazon Machine Learning Specialty](https://www.linkedin.com/pulse/dos-donts-while-preparing-amazon-machine-learning-specialty-semaan/)
-- [AWS Certified ML Specialty: tutto quello che c'è da sapere](https://allaboutdata.substack.com/p/aws-certified-ml-specialty-tutto?s=r)
+- **Useful resources**
+  - [DO's and DONT's while preparing for Amazon Machine Learning Specialty](https://www.linkedin.com/pulse/dos-donts-while-preparing-amazon-machine-learning-specialty-semaan/)
+  - [AWS Certified ML Specialty: tutto quello che c'è da sapere](https://allaboutdata.substack.com/p/aws-certified-ml-specialty-tutto?s=r)
