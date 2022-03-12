@@ -63,6 +63,7 @@ This repository provides a list of either literature review or methods compariso
 
 **Blogs**
 - [Implementing MLOps on an Edge Device](https://www.kdnuggets.com/2020/08/implementing-mlops-edge-device.html)
+- [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#mlops_level_2_cicd_pipeline_automation)
 
 ## Finance
 - [2020 | Deep learning in finance and banking: A literature review and classification](https://fbr.springeropen.com/articles/10.1186/s11782-020-00082-6)
