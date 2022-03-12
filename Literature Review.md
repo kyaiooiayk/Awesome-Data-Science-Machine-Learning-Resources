@@ -18,6 +18,12 @@ This repository provides a list of either literature review or methods compariso
 - [Automatic Speech Recognition (ASR), How it Works](https://towardsdatascience.com/audio-deep-learning-made-simple-automatic-speech-recognition-asr-how-it-works-716cfce4c706)
 - [How we predict machine failures with an audio and machine learning algorithms](https://www.neuronsw.com/blog/how-we-predict-machine-failures-with-machine-learning-algorithms/)
 
+## CV (Computer vision)
+**Scientific Articles**
+
+**Blog**
+- [The Nuts and Bolts of Deep Learning Algorithms for Object Detection](https://towardsdatascience.com/the-nuts-and-bolts-of-deep-learning-algorithms-for-object-detection-60dfc5e015d4)
+
 ## Classification
 **Scientific Articles**
 
