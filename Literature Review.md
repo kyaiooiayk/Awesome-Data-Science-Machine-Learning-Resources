@@ -26,7 +26,6 @@ This repository provides a list of either literature review or methods compariso
 
 ## Classification
 **Scientific Articles**
-
 - [2021 | A literature review on one-class classification and its potential applications in big data](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00514-x)
 - [2019 | Performance Measures for Binary Classification](https://www.sciencedirect.com/science/article/pii/B9780128096338203518?via%3Dihub)
 - [2018 | Review of Bagging and Boosting Classification Performance on Unbalanced Binary Classification](https://ieeexplore.ieee.org/abstract/document/8692138)
@@ -56,6 +55,14 @@ This repository provides a list of either literature review or methods compariso
 
 ## Large scale training
 - [Survey on Large Scale Neural Network Training](https://arxiv.org/abs/2202.10435)
+
+## MLOPs
+**Scientific Articles**
+- [2021 | Challenges and Obstacles Towards Deploying Deep Learning Models on Mobile Devices](https://arxiv.org/pdf/2105.02613.pdf)
+- [2019 | Machine Learning at the Network Edge: A Survey](https://arxiv.org/abs/1908.00080)
+
+**Blogs**
+- [Implementing MLOps on an Edge Device](https://www.kdnuggets.com/2020/08/implementing-mlops-edge-device.html)
 
 ## Finance
 - [2020 | Deep learning in finance and banking: A literature review and classification](https://fbr.springeropen.com/articles/10.1186/s11782-020-00082-6)
