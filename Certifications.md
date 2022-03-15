@@ -71,10 +71,16 @@
 
 ## AWS certified courses
 - AWS offers several [certifications](https://aws.amazon.com/certification/) which are divided into 4 macro areas (foundational, associate, professional and specialty). What is reported here is what I feel would best for a Data Scientist/Machine Learning Engineer.
+
   - [Foundational] **Certified Cloud Practitioner (CCP)** This certificate is targeted for Sales, Support, Managerial roles who need a basic understanding of AWS capabilities. It doesn't require previous experience with AWS. The course introduces different AWS software offerings, focusing on core services such as EC2 (compute), S3 (storage) and how to build secured, scalable, fault-tolerant applications on the cloud. You learn about cloud security and steps involved in migrating an on-premise solution to the cloud, how to estimate the cost for a new solution and differences in various support plans. **Experience required:** if you already have more than 1-year of experience on AWS and understand different AWS services, you might skip this one.
   - [Associate] **Solutions Architect Associate (SAA)** This certification tests your ability to integrate different AWS services into operationally effective, robust and secure solutions. AWS offers over 100 services and it is continuously growing by adding more and more capabilities and regions. I found this course interesting and engaging. It is like solving a puzzle and bringing all the pieces into one cohesive vision. **Experience required:** one year experience solving problems and implementing solutions using the AWS Cloud. 
+  - [Associate] **Developer Associate**
   - [Specialty] **Machine Learning Specialty** before you start preparing for this specialty you should be very familiar with the AWS console, how to launch new services, troubleshoot problems using CloudWatch, and configure secured access using IAM and VPC. If you completed Step 2, then you should be able to answer these questions. **Experience required:** two years of comprehensive experience designing, operating, and troubleshooting solutions using the AWS Cloud.
+  - [Specialty] **Database Specialty**
+  - [Specialty] **Data Analytics Specialty**
+  - [Specialty] **Solution Architect Specialty**
 
 - **Useful resources**
   - [DO's and DONT's while preparing for Amazon Machine Learning Specialty](https://www.linkedin.com/pulse/dos-donts-while-preparing-amazon-machine-learning-specialty-semaan/)
   - [AWS Certified ML Specialty: tutto quello che c'è da sapere](https://allaboutdata.substack.com/p/aws-certified-ml-specialty-tutto?s=r)
+  - [Which AWS certification is right for me?](https://acloudguru.com/blog/engineering/which-aws-certification-should-i-take?utm_campaign=12519326767&utm_source=google&utm_medium=cpc&utm_content=505726436546&utm_term=_&adgroupid=118779662363&gclid=CjwKCAjw8sCRBhA6EiwA6_IF4ZR4jHRy6KP65jnP9rDNyEq-2uhSdQN8WOrIw2Kattx1DeAnIJinOhoC_PwQAvD_BwE)
