@@ -49,6 +49,8 @@ This repository provides a list of either literature review or methods compariso
 - [Classification: ROC Curve and AUC](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
 
 ## XAI (Explainable AI)
+**Scientific Articles**
+- [2020 | Counterfactual Explanations for Machine Learning: A Review](https://arxiv.org/pdf/2010.10596.pdf)
 
 **Blogs**
 - [Explainable Machine Learning in NLP: Methods and Evaluation](https://peterbhase.github.io/files/ExplainableMachineLearninginNLPNECSlides.pdf)
