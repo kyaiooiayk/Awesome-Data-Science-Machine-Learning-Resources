@@ -70,7 +70,7 @@
 - [External Resource #6](https://github.com/jmrf/Reinforcement-Learning-University-Alberta)
 
 ## AWS certified courses
-- AWS offers several [certifications](https://aws.amazon.com/certification/) which are divided into 4 macro areas (foundational, associate, professional and specialty). What is reported here is what I feel would best for a Data Scientist/Machine Learning Engineer.
+- AWS offers several [certifications](https://aws.amazon.com/certification/) which are divided into 4 macro areas (foundational, associate, professional and specialty). What is reported here is what I feel would best to consider if you are startinf from scratch and you are a Data Scientist/Machine Learning Engineer who want to get the Machine Learning Specialty certification.
 
   - [Foundational] **Certified Cloud Practitioner (CCP)** This certificate is targeted for Sales, Support, Managerial roles who need a basic understanding of AWS capabilities. It doesn't require previous experience with AWS. The course introduces different AWS software offerings, focusing on core services such as EC2 (compute), S3 (storage) and how to build secured, scalable, fault-tolerant applications on the cloud. You learn about cloud security and steps involved in migrating an on-premise solution to the cloud, how to estimate the cost for a new solution and differences in various support plans. **Experience required:** if you already have more than 1-year of experience on AWS and understand different AWS services, you might skip this one.
     - [Exam guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
