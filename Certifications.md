@@ -70,7 +70,7 @@
 - [External Resource #6](https://github.com/jmrf/Reinforcement-Learning-University-Alberta)
 
 ## AWS certified courses
-- AWS offers several [certifications](https://aws.amazon.com/certification/) which are divided into 4 macro areas (foundational, associate, professional and specialty). What is reported here is what I feel would best to consider if you are startinf from scratch and you are a Data Scientist/Machine Learning Engineer who want to get the Machine Learning Specialty certification.
+- AWS offers several [certifications](https://aws.amazon.com/certification/) which are divided into 4 macro areas (foundational, associate, professional and specialty). What is reported here is what I feel would best to consider if you are starting from scratch and you are a Data Scientist/Machine Learning Engineer you are aiming to get the Machine Learning Specialty certification.
 
   - [Foundational] **Certified Cloud Practitioner (CCP)** This certificate is targeted for Sales, Support, Managerial roles who need a basic understanding of AWS capabilities. It doesn't require previous experience with AWS. The course introduces different AWS software offerings, focusing on core services such as EC2 (compute), S3 (storage) and how to build secured, scalable, fault-tolerant applications on the cloud. You learn about cloud security and steps involved in migrating an on-premise solution to the cloud, how to estimate the cost for a new solution and differences in various support plans. **Experience required:** if you already have more than 1-year of experience on AWS and understand different AWS services, you might skip this one.
     - [Exam guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
@@ -81,11 +81,7 @@
     - [How AWS Pricing Works](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/how-aws-pricing-works.pdf#welcome)
     - [Compare AWS Support Plan](https://aws.amazon.com/premiumsupport/plans/?cp=sec&sec=prep)  
   - [Associate] **Solutions Architect Associate (SAA)** This certification tests your ability to integrate different AWS services into operationally effective, robust and secure solutions. AWS offers over 100 services and it is continuously growing by adding more and more capabilities and regions. I found this course interesting and engaging. It is like solving a puzzle and bringing all the pieces into one cohesive vision. **Experience required:** one year experience solving problems and implementing solutions using the AWS Cloud. 
-  - [Associate] **Developer Associate**
   - [Specialty] **Machine Learning Specialty** before you start preparing for this specialty you should be very familiar with the AWS console, how to launch new services, troubleshoot problems using CloudWatch, and configure secured access using IAM and VPC. If you completed Step 2, then you should be able to answer these questions. **Experience required:** two years of comprehensive experience designing, operating, and troubleshooting solutions using the AWS Cloud.
-  - [Specialty] **Database Specialty**
-  - [Specialty] **Data Analytics Specialty**
-  - [Specialty] **Solution Architect Specialty**
 
 - **Useful resources**
   - [DO's and DONT's while preparing for Amazon Machine Learning Specialty](https://www.linkedin.com/pulse/dos-donts-while-preparing-amazon-machine-learning-specialty-semaan/)
