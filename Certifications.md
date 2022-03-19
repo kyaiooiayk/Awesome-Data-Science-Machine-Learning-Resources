@@ -80,7 +80,8 @@
     - [Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
     - [How AWS Pricing Works](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/how-aws-pricing-works.pdf#welcome)
     - [Compare AWS Support Plan](https://aws.amazon.com/premiumsupport/plans/?cp=sec&sec=prep)  
-  
+    - [AWS Certification Official Practice Question Sets](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/9153/aws-certification-official-practice-question-sets-english)
+    
   - **Solutions Architect Associate (SAA)** [MainPage](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=tile&tile=getstarted) This certification tests your ability to integrate different AWS services into operationally effective, robust and secure solutions. AWS offers over 100 services and it is continuously growing by adding more and more capabilities and regions. I found this course interesting and engaging. It is like solving a puzzle and bringing all the pieces into one cohesive vision. **Experience required:** one year experience solving problems and implementing solutions using the AWS Cloud. **It expires every two years!**
     - [Exam guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
     - [Sample questions with answers](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
