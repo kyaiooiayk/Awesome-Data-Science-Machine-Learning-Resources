@@ -87,8 +87,10 @@
     - [Sample questions with answers](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
     - [Exam Readiness: AWS Certified Solutions Architect – Associate (Digital)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/125/exam-readiness-aws-certified-solutions-architect-associate-digital?saa=sec&sec=prep)
     - [AWS Certified Solutions Architect - Associate Official Practice Question Set](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/9153/aws-certification-official-practice-question-sets-english)
+    - [AWS Solutions Architect (Associate) Certification" path on LinkedIn Learning](https://www.linkedin.com/learning/paths/prepare-for-aws-solutions-architect-associate-certification?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Be7k7OLNhRnyryMMJnQ6UoQ%3D%3D)
     
   - **Machine Learning Specialty** before you start preparing for this specialty you should be very familiar with the AWS console, how to launch new services, troubleshoot problems using CloudWatch, and configure secured access using IAM and VPC. **Experience required:** two years of comprehensive experience designing, operating, and troubleshooting solutions using the AWS Cloud.
+    - [Amazon SageMaker use guide](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html) 
 
 - **Useful resources**
   - [DO's and DONT's while preparing for Amazon Machine Learning Specialty](https://www.linkedin.com/pulse/dos-donts-while-preparing-amazon-machine-learning-specialty-semaan/)
