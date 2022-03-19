@@ -47,6 +47,7 @@ This repository provides a list of either literature review or methods compariso
 - [Tour of Evaluation Metrics for Imbalanced Classification](https://machinelearningmastery.com/tour-of-evaluation-metrics-for-imbalanced-classification/)
 - [Self-contatined tutorial on ROC](https://www.sheffield.ac.uk/polopoly_fs/1.885164!/file/83_ROCCurves.pdf)
 - [Classification: ROC Curve and AUC](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
+- [Machine Learning Algorithms for Classification](https://www.kdnuggets.com/2022/03/machine-learning-algorithms-classification.html)
 
 ## XAI (Explainable AI)
 **Scientific Articles**
