@@ -18,6 +18,12 @@ This repository provides a list of either literature review or methods compariso
 - [Automatic Speech Recognition (ASR), How it Works](https://towardsdatascience.com/audio-deep-learning-made-simple-automatic-speech-recognition-asr-how-it-works-716cfce4c706)
 - [How we predict machine failures with an audio and machine learning algorithms](https://www.neuronsw.com/blog/how-we-predict-machine-failures-with-machine-learning-algorithms/)
 
+## Correlation
+**Scientific Articles**
+
+**Blog**
+- [An overview of correlation measures between categorical and continuous variables](https://medium.com/@outside2SDs/an-overview-of-correlation-measures-between-categorical-and-continuous-variables-4c7f85610365)
+
 ## CV (Computer vision)
 **Scientific Articles**
 
