@@ -13,6 +13,7 @@
 
 ## Data
 - Storytelling with data *by Cole Nussabaumer Knaflic* [link](https://github.com/AmandaZou/Data-Science-books-/blob/master/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
+- Data Science Solutions: Laptop Startup to Cloud Scale Data Science Workflow *by Manav Sehgal* [notebooks](https://github.com/Startupsci/data-science-notebooks)
 
 ## Machine Learning
 - Machine Learning Engineering *by Andriy Burkov* [link](http://www.mlebook.com/wiki/doku.php)
