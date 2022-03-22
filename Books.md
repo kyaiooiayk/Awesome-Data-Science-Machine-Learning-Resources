@@ -11,6 +11,9 @@
 - Calculus Made Easy [link](https://github.com/lahorekid/Calculus/blob/master/Calculus%20Made%20Easy.pdf)
 - Calculus by ron larson [link](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/860/%20CalculusTextbook.pdf)
 
+## Cloud computing
+
+
 ## Data
 - Storytelling with data *by Cole Nussabaumer Knaflic* [link](https://github.com/AmandaZou/Data-Science-books-/blob/master/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
 - Data Science Solutions: Laptop Startup to Cloud Scale Data Science Workflow *by Manav Sehgal* [notebooks](https://github.com/Startupsci/data-science-notebooks)
