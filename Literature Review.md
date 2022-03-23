@@ -55,6 +55,11 @@ This repository provides a list of either literature review or methods compariso
 - [Classification: ROC Curve and AUC](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
 - [Machine Learning Algorithms for Classification](https://www.kdnuggets.com/2022/03/machine-learning-algorithms-classification.html)
 
+## Costumer churn
+****
+**Blogs**
+- [Customer Churn Prediction Using Machine Learning: Main Approaches and Models](https://www.kdnuggets.com/2019/05/churn-prediction-machine-learning.html)
+
 ## XAI (Explainable AI)
 **Scientific Articles**
 - [2020 | Counterfactual Explanations for Machine Learning: A Review](https://arxiv.org/pdf/2010.10596.pdf)
