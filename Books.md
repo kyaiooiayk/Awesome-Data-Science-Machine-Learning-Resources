@@ -11,9 +11,10 @@
 - Calculus Made Easy [link](https://github.com/lahorekid/Calculus/blob/master/Calculus%20Made%20Easy.pdf)
 - Calculus by ron larson [link](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/860/%20CalculusTextbook.pdf)
 
-## Cloud computing
+## Cloud Computing
 - [Machine Learning in the AWS Cloud Add Intelligence to Applications with Amazon SageMaker and Amazon Rekognition *by Abhishek Mishra*](https://www.wiley.com/en-gb/Machine+Learning+in+the+AWS+Cloud%3A+Add+Intelligence+to+Applications+with+Amazon+SageMaker+and+Amazon+Rekognition-p-9781119556718) [[codes](https://media.wiley.com/product_ancillary/16/11195567/DOWNLOAD/Full%20Code.zip) | [notebooks](https://github.com/asmtechnology?tab=repositories)]
 - AWS Cookbook Code repositories for the AWS Cookbook [GitHub](https://github.com/awscookbook)
+- Data Science on AWS Implementing End-to-End, Continuous AI and Machine Learning Pipelines *by Chris Fregly & Antje Barth* [GitHub](https://github.com/data-science-on-aws)
 
 ## Data
 - Storytelling with data *by Cole Nussabaumer Knaflic* [link](https://github.com/AmandaZou/Data-Science-books-/blob/master/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
