@@ -13,6 +13,7 @@
 
 ## Cloud computing
 - [Machine Learning in the AWS Cloud Add Intelligence to Applications with Amazon SageMaker and Amazon Rekognition *by Abhishek Mishra*](https://www.wiley.com/en-gb/Machine+Learning+in+the+AWS+Cloud%3A+Add+Intelligence+to+Applications+with+Amazon+SageMaker+and+Amazon+Rekognition-p-9781119556718) [[codes](https://media.wiley.com/product_ancillary/16/11195567/DOWNLOAD/Full%20Code.zip) | [notebooks](https://github.com/asmtechnology?tab=repositories)]
+- AWS Cookbook Code repositories for the AWS Cookbook [GitHub](https://github.com/awscookbook)
 
 ## Data
 - Storytelling with data *by Cole Nussabaumer Knaflic* [link](https://github.com/AmandaZou/Data-Science-books-/blob/master/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
