@@ -66,6 +66,7 @@ This repository provides a list of either literature review or methods compariso
 
 **Blogs**
 - [Explainable Machine Learning in NLP: Methods and Evaluation](https://peterbhase.github.io/files/ExplainableMachineLearninginNLPNECSlides.pdf)
+- [What’s wrong with “explainable A.I.”](https://fortune.com/2022/03/22/ai-explainable-radiology-medicine-crisis-eye-on-ai/)
 
 ## Large scale training
 - [Survey on Large Scale Neural Network Training](https://arxiv.org/abs/2202.10435)
