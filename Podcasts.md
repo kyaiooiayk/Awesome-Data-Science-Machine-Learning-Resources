@@ -16,3 +16,4 @@
 - [SWD (Storytelling With Data by *Cole Nussbaumer Knaflic*) podcast](https://www.storytellingwithdata.com/podcast)
 - [Datacast Datacast follows the narrative journey of data practitioners and researchers to unpack the career lessons they learned along the way. James Le hosts the show](https://datacast.simplecast.com/)
 - [Last Week in AWS](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/)
+- [The Gradient](https://thegradientpub.substack.com/s/podcast/archive?sort=new)
