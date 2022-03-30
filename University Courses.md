@@ -1,5 +1,5 @@
 # University Courses
-*Links to some university courses homepages where the instructors published notes, codes and much more*
+*Links to some university courses where the instructors published notes, codes and much more*
 ***
 - [Cornell University | CS6787 Advanced Machine Learning Systems](http://www.cs.cornell.edu/courses/cs6787/2021fa/)
 - [Cornell University | Machine Learning CS4780/CS5780](https://www.cs.cornell.edu/courses/cs4780/2018sp/page16/)
