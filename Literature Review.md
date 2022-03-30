@@ -92,6 +92,11 @@ This repository provides a list of either literature review or methods compariso
 - [List of timestamp's options](https://help.sumologic.com/03Send-Data/Sources/04Reference-Information-for-Sources/Timestamps%2C-Time-Zones%2C-Time-Ranges%2C-and-Date-Formats)
 - [Deep learning: the final frontier for signal processing and time series analysis?](https://alexrachnog.medium.com/deep-learning-the-final-frontier-for-signal-processing-and-time-series-analysis-734307167ad6)
 
+## Regression
+**Sceintific Articles**
+**Blogs**
+- [GLM, GAM and more](https://christophm.github.io/interpretable-ml-book/extend-lm.html)
+
 ## Signal processing
 
 **Blogs**
