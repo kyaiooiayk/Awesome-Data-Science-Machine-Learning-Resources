@@ -1,10 +1,12 @@
 # Literature review
 This repository provides a list of either literature review or methods comparisons. No other resources are listed here. Essentially, anything giving an overview of methods or something which provides some guidance between the zoo of model once faces. Ordered by the most recent to the oldest published.
+***
 
 ## Autoencoder
 
 **Blog**
 - [Introduction to variational autoencoders](https://jxmo.io/posts/variational-autoencoders)
+***
 
 ## Audio
 **Scientific Articles**
@@ -17,18 +19,21 @@ This repository provides a list of either literature review or methods compariso
 - [Audio Deep Learning Made Simple (Part 2): Why Mel Spectrograms perform better](https://towardsdatascience.com/audio-deep-learning-made-simple-part-2-why-mel-spectrograms-perform-better-aad889a93505)
 - [Automatic Speech Recognition (ASR), How it Works](https://towardsdatascience.com/audio-deep-learning-made-simple-automatic-speech-recognition-asr-how-it-works-716cfce4c706)
 - [How we predict machine failures with an audio and machine learning algorithms](https://www.neuronsw.com/blog/how-we-predict-machine-failures-with-machine-learning-algorithms/)
+***
 
 ## Correlation
 **Scientific Articles**
 
 **Blog**
 - [An overview of correlation measures between categorical and continuous variables](https://medium.com/@outside2SDs/an-overview-of-correlation-measures-between-categorical-and-continuous-variables-4c7f85610365)
+***
 
 ## CV (Computer vision)
 **Scientific Articles**
 
 **Blog**
 - [The Nuts and Bolts of Deep Learning Algorithms for Object Detection](https://towardsdatascience.com/the-nuts-and-bolts-of-deep-learning-algorithms-for-object-detection-60dfc5e015d4)
+***
 
 ## Classification
 **Scientific Articles**
@@ -54,11 +59,20 @@ This repository provides a list of either literature review or methods compariso
 - [Self-contatined tutorial on ROC](https://www.sheffield.ac.uk/polopoly_fs/1.885164!/file/83_ROCCurves.pdf)
 - [Classification: ROC Curve and AUC](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
 - [Machine Learning Algorithms for Classification](https://www.kdnuggets.com/2022/03/machine-learning-algorithms-classification.html)
+***
+## Clustering
+**Scientific Articles**
+
+**Blogs**
+- [Document Clustering with Python](http://brandonrose.org/clustering)
+***
 
 ## Costumer churn
-****
+**Scientific Articles**
+
 **Blogs**
 - [Customer Churn Prediction Using Machine Learning: Main Approaches and Models](https://www.kdnuggets.com/2019/05/churn-prediction-machine-learning.html)
+***
 
 ## XAI (Explainable AI)
 **Scientific Articles**
@@ -67,9 +81,11 @@ This repository provides a list of either literature review or methods compariso
 **Blogs**
 - [Explainable Machine Learning in NLP: Methods and Evaluation](https://peterbhase.github.io/files/ExplainableMachineLearninginNLPNECSlides.pdf)
 - [What’s wrong with “explainable A.I.”](https://fortune.com/2022/03/22/ai-explainable-radiology-medicine-crisis-eye-on-ai/)
+***
 
 ## Large scale training
 - [Survey on Large Scale Neural Network Training](https://arxiv.org/abs/2202.10435)
+***
 
 ## MLOPs
 **Scientific Articles**
@@ -80,9 +96,11 @@ This repository provides a list of either literature review or methods compariso
 - [Implementing MLOps on an Edge Device](https://www.kdnuggets.com/2020/08/implementing-mlops-edge-device.html)
 - [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#mlops_level_2_cicd_pipeline_automation)
 - [MLOps and ModelOps: What’s the Difference and Why it Matters](MLOps and ModelOps: What’s the Difference and Why it Matters)
+***
 
 ## Finance
 - [2020 | Deep learning in finance and banking: A literature review and classification](https://fbr.springeropen.com/articles/10.1186/s11782-020-00082-6)
+***
 
 ## Timeseries analysis
 - [2017 | Forecasting at scale, white paper of Prophet from FaceBook](https://peerj.com/preprints/3190/)
@@ -91,16 +109,19 @@ This repository provides a list of either literature review or methods compariso
 **Blogs**
 - [List of timestamp's options](https://help.sumologic.com/03Send-Data/Sources/04Reference-Information-for-Sources/Timestamps%2C-Time-Zones%2C-Time-Ranges%2C-and-Date-Formats)
 - [Deep learning: the final frontier for signal processing and time series analysis?](https://alexrachnog.medium.com/deep-learning-the-final-frontier-for-signal-processing-and-time-series-analysis-734307167ad6)
+***
 
 ## Regression
 **Sceintific Articles**
 **Blogs**
 - [GLM, GAM and more](https://christophm.github.io/interpretable-ml-book/extend-lm.html)
 - [GAM: The Predictive Modeling Silver Bullet](https://multithreaded.stitchfix.com/blog/2015/07/30/gam/)
+***
 
 ## Signal processing
 
 **Blogs**
 - [Deep Learning for Signal Processing: What You Need to Know](https://www.kdnuggets.com/2020/07/deep-learning-signal-processing.html)
 - [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+***
 
