@@ -19,6 +19,7 @@
 - [Airbnb blog](https://medium.com/airbnb-engineering/ai/home) 
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Kaggle Winner's Blog](https://medium.com/kaggle-blog)
+- [Indeed](https://engineering.indeedblog.com/blog/)
 ***
 
 ## Blogs dedicated to finance
