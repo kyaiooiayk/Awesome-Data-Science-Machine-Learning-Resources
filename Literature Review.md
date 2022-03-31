@@ -96,7 +96,14 @@ This repository provides a list of either literature review or methods compariso
 **Blogs**
 - [Implementing MLOps on an Edge Device](https://www.kdnuggets.com/2020/08/implementing-mlops-edge-device.html)
 - [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#mlops_level_2_cicd_pipeline_automation)
-- [MLOps and ModelOps: What’s the Difference and Why it Matters](MLOps and ModelOps: What’s the Difference and Why it Matters)
+- [MLOps and ModelOps: What’s the Difference and Why it Matters](https://www.kdnuggets.com/2021/09/mlops-modelops-difference.html)
+***
+
+## NLP
+**Scientific Articles**
+
+**Blogs**
+- [Rext Mining Our Dealer Reviews](https://engineering.autotrader.co.uk/2017/10/10/text-mining-dealer-reviews.html)
 ***
 
 ## Finance
