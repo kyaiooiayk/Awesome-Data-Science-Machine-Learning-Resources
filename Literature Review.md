@@ -104,6 +104,7 @@ This repository provides a list of either literature review or methods compariso
 
 **Blogs**
 - [Rext Mining Our Dealer Reviews](https://engineering.autotrader.co.uk/2017/10/10/text-mining-dealer-reviews.html)
+- [How to use Word2Vecto establish how similar two cars are](https://engineering.autotrader.co.uk/2021/02/17/interchangeable-stock.html)
 ***
 
 ## Finance
