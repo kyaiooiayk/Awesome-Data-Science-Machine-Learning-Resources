@@ -65,6 +65,7 @@ This repository provides a list of either literature review or methods compariso
 
 **Blogs**
 - [Document Clustering with Python](http://brandonrose.org/clustering)
+- [Automatic topic mapping library: automatically select the optimal number of clusters to map topics to](https://amaral.northwestern.edu/resources/software/topic-mapping#undefined)
 ***
 
 ## Costumer churn
