@@ -20,6 +20,7 @@
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Kaggle Winner's Blog](https://medium.com/kaggle-blog)
 - [Indeed](https://engineering.indeedblog.com/blog/)
+- [LinkedIn](https://engineering.linkedin.com/blog)
 ***
 
 ## Blogs dedicated to finance
