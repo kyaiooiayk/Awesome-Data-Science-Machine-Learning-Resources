@@ -112,6 +112,7 @@ This repository provides a list of either literature review or methods compariso
 ***
 
 ## Timeseries analysis
+**Sceintific Articles**
 - [2017 | Forecasting at scale, white paper of Prophet from FaceBook](https://peerj.com/preprints/3190/)
 - [1999 | Timestamps: main issues on their use and implementation](https://ieeexplore.ieee.org/document/805196)
 
