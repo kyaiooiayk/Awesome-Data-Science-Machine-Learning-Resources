@@ -15,12 +15,48 @@
 ***
 
 ## Big Tech Blogs
-- [Autotrader](https://engineering.autotrader.co.uk/)
+- [Amazon](https://www.amazon.science/blog)
 - [Airbnb blog](https://medium.com/airbnb-engineering/ai/home) 
+- [Baidu](http://research.baidu.com/Research_Areas/index-view?id=55)
+- [Booking.com](https://booking.ai/)
+- [Ebay](https://tech.ebayinc.com/research/)
+- [Expedia](https://blog.lifeatexpediagroup.com/tag/data-science/)
 - [Google AI Blog](https://ai.googleblog.com/)
-- [Kaggle Winner's Blog](https://medium.com/kaggle-blog)
 - [Indeed](https://engineering.indeedblog.com/blog/)
+- [Kaggle Winner's Blog](https://medium.com/kaggle-blog)
 - [LinkedIn](https://engineering.linkedin.com/blog)
+- [Meta](https://research.facebook.com/research-areas/data-science/)
+
+Data Science @Google
+Data Science @Grammarly
+Data Science @ING Fraud
+Data Science @Instagram
+Data Science @LinkedIn
+Data Science @Lyft
+Data Science @NASA
+Data Science @Netflix
+Data Science @OLX
+Data Science @OTTO
+Data Science @Paypal
+Data Science @Pinterest
+Data Science @Salesforce
+Data Science @Siemens Mindsphere
+Data Science @Slack
+Data Science @Spotify
+Data Science @Symantec
+Data Science @Tinder
+Data Science @Twitter
+Data Science @Uber
+Data Science @Upwork
+Woot
+Zalando
+
+
+## Others Blogs
+- [Autotrader](https://engineering.autotrader.co.uk/)
+- [CERN](https://db-blog.web.cern.ch/)
+- [DLR](https://www.dlr.de/content/en/institutes/institute-of-data-science.html)
+
 ***
 
 ## Blogs dedicated to finance
