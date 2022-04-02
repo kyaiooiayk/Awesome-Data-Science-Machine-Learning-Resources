@@ -1,24 +1,33 @@
 # Books
 *Links to freely (mostly?) available books with and without their companion notebooks*
+***
 
 ## Big Data
 - Data Mining - Practical Machine Learning Tools and Techniques [link](https://cdn.preterhuman.net/texts/science_and_technology/artificial_intelligence/Data%20Mining%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%202d%20ed%20-%20Morgan%20Kaufmann.pdf)
 - Mining Massive Datasets [link](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
 - Fighting Churn With Data *by Carl Gold* [link](https://www.manning.com/books/fighting-churn-with-data) 
 - Large Scale Machine Learning with Python *by Sjardin, Bastiaan, Luca Massaron, and Alberto Boschetti* [notebooks](https://github.com/packtpublishing/large-scale-machine-learning-with-python)
+ ***
  
 ## Calculus
 - Calculus Made Easy [link](https://github.com/lahorekid/Calculus/blob/master/Calculus%20Made%20Easy.pdf)
 - Calculus by ron larson [link](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/860/%20CalculusTextbook.pdf)
-
+ ***
+ 
 ## Cloud Computing
 - [Machine Learning in the AWS Cloud Add Intelligence to Applications with Amazon SageMaker and Amazon Rekognition *by Abhishek Mishra*](https://www.wiley.com/en-gb/Machine+Learning+in+the+AWS+Cloud%3A+Add+Intelligence+to+Applications+with+Amazon+SageMaker+and+Amazon+Rekognition-p-9781119556718) [[codes](https://media.wiley.com/product_ancillary/16/11195567/DOWNLOAD/Full%20Code.zip) | [notebooks](https://github.com/asmtechnology?tab=repositories)]
 - AWS Cookbook Code repositories for the AWS Cookbook [GitHub](https://github.com/awscookbook)
 - Data Science on AWS Implementing End-to-End, Continuous AI and Machine Learning Pipelines *by Chris Fregly & Antje Barth* [GitHub](https://github.com/data-science-on-aws)
+***
 
 ## Data
 - Storytelling with data *by Cole Nussabaumer Knaflic* [link](https://github.com/AmandaZou/Data-Science-books-/blob/master/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
 - Data Science Solutions: Laptop Startup to Cloud Scale Data Science Workflow *by Manav Sehgal* [notebooks](https://github.com/Startupsci/data-science-notebooks)
+***
+
+## Data Engineering
+- [The data engineering cookbook](https://github.com/mikulskibartosz/Cookbook)
+***
 
 ## Machine Learning
 - Machine Learning Engineering *by Andriy Burkov* [link](http://www.mlebook.com/wiki/doku.php)
@@ -49,7 +58,8 @@
 - Machine learning systems design *by Chip Huyen* [link](https://huyenchip.com/machine-learning-systems-design/toc.html)
 - Python Machine Learning *by Sebastian Raschka* [notebooks](https://github.com/rasbt/python-machine-learning-book)
 - Machine Learning with PyTorch and Scikit-Learn *by Sebastian Raschka* [notebooks](https://github.com/rasbt/machine-learning-book)
-
+ ***
+ 
 ## Math for Machine Learning
 - [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares *by Stephen Boyd and Lieven Vandenberghe*](https://web.stanford.edu/~boyd/vmls/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
@@ -57,13 +67,15 @@
 - [Linear Algebra *by Shilov*](https://cosmathclub.files.wordpress.com/2014/10/georgi-shilov-linear-algebra4.pdf)
 - [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW.html)
 - [Linear Algebra, Theory, and Applications](https://math.byu.edu/~klkuttle/Linearalgebra.pdf)
-
+ ***
+ 
 ## (For) Newbies
 - A First Encounter with Machine Learning [link](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf)
 - Machine Learning for Dummies [link](https://mscdss.ds.unipi.gr/wp-content/uploads/2018/02/Untitled-attachment-00056-2-1.pdf)
 - Machine Learning for Mortals (Mere and Otherwise) [link](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) 
 - Machine learning yearning *by Andrew Ng* [link](https://github.com/AmandaZou/Data-Science-books-/blob/master/Ng-Machine%20learning%20yearning.pdf)
-
+ ***
+ 
 ## Deep Learning
 - Deep Learning *by Ian Goodfellow and Yoshua Bengio and Aaron Courville* [link](https://www.deeplearningbook.org/)
 - Grokking Deep Learning *by Andrew W. Trask* [link](https://cdn.ttgtmedia.com/rms/pdf/grokking_deep_learning.pdf) 
@@ -75,18 +87,22 @@
 - Computer Vision: Algorithms and Applications [link](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
 - Deep learning with Python *by Chollet, Francois* [notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
 - Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python *by Sebastian Raschka* [notebooks](https://github.com/rasbt/deep-learning-book)
-
+ ***
+ 
 ## Forecasting
 - Forecasting: principles and practice [link](https://otexts.com/fpp2/)
-
+***
+ 
 ## Books Focused on Frameworks
 - Machine Learning with TensorFlow [link](https://www.manning.com/books/machine-learning-with-tensorflow)
 - Hands‑On Machine Learning with Scikit‑Learn and TensorFlow *by Aurélien Géron* [link](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf)
-
+***
+ 
 ## MLOps
 - MLOps Engineering at Scale [link](https://www.manning.com/books/mlops-engineering-at-scale)
 - Building the Data Lakehouse *by Bill Inmon*, required registration [link](https://databricks.com/p/ebook/building-the-data-lakehouse?utm_source=kdn-&utm_medium=thirdparty&utm_campaign=7013f000000LiABAA0&utm_content=email)
-
+***
+ 
 ## Natural Language Processing
 - Coursera Course Book on NLP [link](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html)
 - Data Intensive Text Processing w/ MapReduce [link](https://lintool.github.io/MapReduceAlgorithms/)
@@ -101,14 +117,17 @@
 - Python Natural Language Processing *by Jalaj Thanaki* [notebooks](https://github.com/PacktPublishing/Python-Natural-Language-Processing)
 - Natural language processing with Python: analyzing text with the natural language toolkit *by Bird, Steven, Ewan Klein, and Edward Loper* [notebooks](https://github.com/Sturzgefahr/Natural-Language-Processing-with-Python-Analyzing-Text-with-the-Natural-Language-Toolkit)
 - Natural language processing with PyTorch: build intelligent language applications using deep learning *by Rao, Delip, and Brian McMahan* [notebooks](https://github.com/joosthub/PyTorchNLPBook)
-
+***
+ 
 ## Information Retrieval
 - An Introduction to Information Retrieval [link](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
 - Introduction to Information Retrieval [link](https://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf)
+***
 
 ## Artificial Neural Networks
 - A Brief Introduction to Neural Networks [link](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf)
 - Neural Networks and Deep Learning [link](http://neuralnetworksanddeeplearning.com/)
+***
 
 ## Probability & Statistics
 - An Introduction To Statistical Learning [link](https://www-bcf.usc.edu/~gareth/ISL/)
@@ -128,11 +147,13 @@
 - Think Stats [link](https://www.greenteapress.com/thinkstats/)
 - Think Bayes [link](https://greenteapress.com/wp/think-bayes/)
 - Statistical Rethinking A Bayesian Course with Examples in R and Stan" by Richard McElreath [notebooks](https://github.com/pymc-devs/resources/tree/master/Rethinking)
+***
 
 ## Human-in-the-loop, Reinforcement/Active Learning
 - Reinforcement Learning: - An Introduction *by Sutton adn Barto* [1st edition](http://incompleteideas.net/book/the-book-2nd.html) | [2nd edition](https://d18ky98rnyall9.cloudfront.net/Ph9QFZnEEemRfw7JJ0OZYA_808e8e7d9a544e1eb31ad11069d45dc4_RLbook2018.pdf?Expires=1643587200&Signature=RPs6xs41J~GOBi~8s1e1suzrbeth6yMK7DBbhZXN9sm8GK3IJbzteZP2rzWgjL~jriqn0s2az7KSsvyjaAC-oQ1KCCG6Xs8dLsrid6LxPvywiT43aMhLB~CT-IQ-IDOu~G9WRm0o8bMXfwD6Y~8uq~lx5JSKEffuYulPNFvtuDI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 - Reinforcement Learning [link](https://www.intechopen.com/books/reinforcement_learning)
 - Human-in-the-Loop Machine Learning *by Robert Monarch* [notebooks](https://github.com/rmunro/pytorch_active_learning)
+***
 
 ## Books Focused on Programing
 
@@ -156,21 +177,25 @@
 *Java & JavaScript*
 - Practical Artificial Intelligence Programming in Java [link](https://www.saylor.org/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)
 - Deep Learning with JavaScript [link](https://www.manning.com/books/deep-learning-with-javascript) 
+***
 
 ## Vision
 - Pattern Recognition and Machine Learning [link](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - A Probabilistic Theory of Pattern Recognition [link](https://www.szit.bme.hu/~gyorfi/pbook.pdf)
+***
 
 ## Numerical methods
 - Applied Numerical Computing [link](https://www.seas.ucla.edu/~vandenbe/ee133a.html)
 - Mathematics for Machine Learning *by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong* [link](https://mml-book.github.io/)
+***
 
 ## Optimisation
 - Convex Optimization [link](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+***
 
 ## XGBoost
 - Hands-On Gradient Boosting with XGBoost and scikit-learn *by Corey Wade* [notebooks](https://github.com/PacktPublishing/Hands-On-Gradient-Boosting-with-XGBoost-and-Scikit-learn)
+***
 
 ## Time series
-- [
-Signal Processing for Communications *by Paolo Prandoni and Martin Vetterli*](https://www.sp4comm.org/)
+- [Signal Processing for Communications *by Paolo Prandoni and Martin Vetterli*](https://www.sp4comm.org/)
