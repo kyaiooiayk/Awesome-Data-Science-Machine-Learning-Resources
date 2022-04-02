@@ -6,6 +6,14 @@
 - [Cornell University | Principles of Large-Scale Machine Learning CS4787](https://www.cs.cornell.edu/courses/cs4787/2020sp/)
 ***
 - [MIT | Recognizing and Learning Object Categories](https://people.csail.mit.edu/torralba/shortCourseRLOC/index.html)
+- [MIT | Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+- [MIT | Introduction to Probability and Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/)
+- [MIT | Statistical Thinking and Data Analysis](https://ocw.mit.edu/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/)
+- [MIT | Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
+- [MIT | Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
+- [MIT | Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+- [MIT | Introduction to Machine Learning](https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/)
+
 ***
 - [New York University | DEEP LEARNING DS-GA 1008](https://atcold.github.io/pytorch-Deep-Learning/)
 ***
@@ -21,4 +29,3 @@
 - [Stanford University | EE269 Signal Processing for Machine Learning](http://web.stanford.edu/class/ee269/slides.html)
 ***
 - [Toronto University | CSC321 Introduction to Neural Networks and Machine Learning](http://www.cs.toronto.edu/~tijmen/csc321/)
-***
