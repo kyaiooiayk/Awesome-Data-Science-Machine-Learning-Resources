@@ -147,6 +147,7 @@
 - Think Stats [link](https://www.greenteapress.com/thinkstats/)
 - Think Bayes [link](https://greenteapress.com/wp/think-bayes/)
 - Statistical Rethinking A Bayesian Course with Examples in R and Stan" by Richard McElreath [notebooks](https://github.com/pymc-devs/resources/tree/master/Rethinking)
+- Probabilistic Machine learning by *Kevin Murphy* [notebooks](https://github.com/probml)
 ***
 
 ## Human-in-the-loop, Reinforcement/Active Learning
