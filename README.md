@@ -17,6 +17,7 @@ Links to free (mostly?) resources for learning about Data Science
 *Competitions with prize money!*
 
 ## [Data Repository](https://github.com/kyaiooiayk/Data-Science-Machine-Learning-Resources/blob/main/DataRepository.md)
+*List of repositories of freely available data repositories*
 
 ## [Important people](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Important%20People.md)
 *Links to the homepages of the most influencial people in AI/ML/DL*
