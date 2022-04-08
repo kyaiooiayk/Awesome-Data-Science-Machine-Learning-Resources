@@ -68,7 +68,7 @@ This repository provides a list of either literature review or methods compariso
 - [Automatic topic mapping library: automatically select the optimal number of clusters to map topics to](https://amaral.northwestern.edu/resources/software/topic-mapping#undefined)
 ***
 
-## Costumer churn
+## Customer churn
 **Scientific Articles**
 
 **Blogs**
@@ -125,6 +125,14 @@ This repository provides a list of either literature review or methods compariso
 - [GLM, GAM and more](https://christophm.github.io/interpretable-ml-book/extend-lm.html)
 - [GAM: The Predictive Modeling Silver Bullet](https://multithreaded.stitchfix.com/blog/2015/07/30/gam/)
 ***
+
+## Self-supervised learning
+**Literature Reviews**
+
+**Blogs**
+- [Self-supervised vs. semi-supervised learning](https://analyticsindiamag.com/self-supervised-learning-vs-semi-supervised-learning-how-they-differ/)
+***
+
 
 ## Signal processing
 
