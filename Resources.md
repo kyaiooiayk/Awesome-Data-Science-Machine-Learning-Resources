@@ -11,7 +11,7 @@
 ***
 
 ## Feature Engineering
-- Types of Data and levels of measurement [link](https://homepage.stat.uiowa.edu/~rdecook/stat1010/notes/Section_2.1_2.2_data_types_and_errors.pdf)
+- [Types of Data and levels of measurement](https://homepage.stat.uiowa.edu/~rdecook/stat1010/notes/Section_2.1_2.2_data_types_and_errors.pdf)
 ***
 
 ## Math for Machine Learning
