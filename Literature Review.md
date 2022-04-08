@@ -75,17 +75,15 @@ This repository provides a list of either literature review or methods compariso
 - [Customer Churn Prediction Using Machine Learning: Main Approaches and Models](https://www.kdnuggets.com/2019/05/churn-prediction-machine-learning.html)
 ***
 
-## XAI (Explainable AI)
-**Scientific Articles**
-- [2020 | Counterfactual Explanations for Machine Learning: A Review](https://arxiv.org/pdf/2010.10596.pdf)
-
-**Blogs**
-- [Explainable Machine Learning in NLP: Methods and Evaluation](https://peterbhase.github.io/files/ExplainableMachineLearninginNLPNECSlides.pdf)
-- [What’s wrong with “explainable A.I.”](https://fortune.com/2022/03/22/ai-explainable-radiology-medicine-crisis-eye-on-ai/)
-***
-
 ## Large scale training
 - [Survey on Large Scale Neural Network Training](https://arxiv.org/abs/2202.10435)
+***
+
+## Data
+**Scientific Articles**
+
+**Blogs**
+- [Data-centric shift](https://spectrum.ieee.org/andrew-ng-data-centric-ai#career)
 ***
 
 ## MLOPs
@@ -133,3 +131,12 @@ This repository provides a list of either literature review or methods compariso
 **Blogs**
 - [Deep Learning for Signal Processing: What You Need to Know](https://www.kdnuggets.com/2020/07/deep-learning-signal-processing.html)
 - [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+
+## XAI (Explainable AI)
+**Scientific Articles**
+- [2020 | Counterfactual Explanations for Machine Learning: A Review](https://arxiv.org/pdf/2010.10596.pdf)
+
+**Blogs**
+- [Explainable Machine Learning in NLP: Methods and Evaluation](https://peterbhase.github.io/files/ExplainableMachineLearninginNLPNECSlides.pdf)
+- [What’s wrong with “explainable A.I.”](https://fortune.com/2022/03/22/ai-explainable-radiology-medicine-crisis-eye-on-ai/)
+***
