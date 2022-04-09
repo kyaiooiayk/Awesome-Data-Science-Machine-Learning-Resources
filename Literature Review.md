@@ -86,6 +86,15 @@ This repository provides a list of either literature review or methods compariso
 - [Data-centric shift](https://spectrum.ieee.org/andrew-ng-data-centric-ai#career)
 ***
 
+## ML-based design optimisation
+**Scientific Articles**
+- [2021 | Machine learning-aided design optimization of a mechanical micromixer](https://aip.scitation.org/doi/10.1063/5.0048771)
+- [2018 | Deep Generative Design: Integration of Topology Optimization and Generative Models](https://arxiv.org/ftp/arxiv/papers/1903/1903.01548.pdf)
+
+**Blog**
+
+***
+
 ## MLOPs
 **Scientific Articles**
 - [2021 | Challenges and Obstacles Towards Deploying Deep Learning Models on Mobile Devices](https://arxiv.org/pdf/2105.02613.pdf)
