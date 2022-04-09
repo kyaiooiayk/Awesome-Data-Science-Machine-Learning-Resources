@@ -86,8 +86,9 @@ This repository provides a list of either literature review or methods compariso
 - [Data-centric shift](https://spectrum.ieee.org/andrew-ng-data-centric-ai#career)
 ***
 
-## ML-based design optimisation
+## ML-driven design optimisation
 **Scientific Articles**
+- [2021 | ntegrating Deep Learning into CAD/CAE System: Generative Design and Evaluation of 3D Conceptual Wheel](https://arxiv.org/ftp/arxiv/papers/2006/2006.02138.pdf)
 - [2021 | Machine learning-aided design optimization of a mechanical micromixer](https://aip.scitation.org/doi/10.1063/5.0048771)
 - [2018 | Deep Generative Design: Integration of Topology Optimization and Generative Models](https://arxiv.org/ftp/arxiv/papers/1903/1903.01548.pdf)
 
