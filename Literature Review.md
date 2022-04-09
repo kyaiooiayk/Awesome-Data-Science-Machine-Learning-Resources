@@ -169,3 +169,13 @@ This repository provides a list of either literature review or methods compariso
 - [Explainable Machine Learning in NLP: Methods and Evaluation](https://peterbhase.github.io/files/ExplainableMachineLearninginNLPNECSlides.pdf)
 - [What’s wrong with “explainable A.I.”](https://fortune.com/2022/03/22/ai-explainable-radiology-medicine-crisis-eye-on-ai/)
 ***
+
+
+## 3D Data
+**Scientific Articles**
+- [2017 | PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://proceedings.neurips.cc/paper/2017/file/d8bf84be3800d12f74d8b05e9b89836f-Paper.pdf)
+- [2017 | PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf)
+
+**Blog**
+- [Understanding Machine Learning on Point Clouds through PointNet++](https://towardsdatascience.com/understanding-machine-learning-on-point-clouds-through-pointnet-f8f3f2d53cc3)
+***
