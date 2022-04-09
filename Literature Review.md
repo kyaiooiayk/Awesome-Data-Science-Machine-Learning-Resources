@@ -75,8 +75,12 @@ This repository provides a list of either literature review or methods compariso
 - [Customer Churn Prediction Using Machine Learning: Main Approaches and Models](https://www.kdnuggets.com/2019/05/churn-prediction-machine-learning.html)
 ***
 
-## Large scale training
-- [Survey on Large Scale Neural Network Training](https://arxiv.org/abs/2202.10435)
+## Deep Learning
+**Scientific Articles**
+- [2022 | Survey on Large Scale Neural Network Training](https://arxiv.org/abs/2202.10435)
+
+**Blogs**
+- [ Some AI Systems May Be Impossible to Compute](https://spectrum.ieee.org/deep-neural-network)
 ***
 
 ## Data
