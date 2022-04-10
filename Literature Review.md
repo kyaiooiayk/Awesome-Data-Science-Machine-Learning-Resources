@@ -171,7 +171,7 @@ This repository provides a list of either literature review or methods compariso
 ***
 
 
-## 3D Data
+## 3D Data (Geometric Deep Learning)
 **Scientific Articles**
 - [2020 | Multi-Task Shape Optimization Using a 3D Point Cloud Autoencoder as Unified Representation](https://www.researchgate.net/publication/352111865_Multi-Task_Shape_Optimization_Using_a_3D_Point_Cloud_Autoencoder_as_Unified_Representation)
 - [2020 | Deep Learning for 3D Point Clouds: A Survey](https://arxiv.org/pdf/1912.12033.pdf)
