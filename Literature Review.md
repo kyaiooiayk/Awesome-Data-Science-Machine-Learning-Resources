@@ -182,4 +182,19 @@ This repository provides a list of either literature review or methods compariso
 **Blog**
 - [Understanding Machine Learning on Point Clouds through PointNet++](https://towardsdatascience.com/understanding-machine-learning-on-point-clouds-through-pointnet-f8f3f2d53cc3)
 - [Deep Learning on 3D Point Clouds](https://medium.com/mlearning-ai/deep-learning-on-3d-point-clouds-1c79d2fc3fd0)
+
+## Physics-Informed Neural Networks (PINNs)
+**Scientific Articles**
+- [2021 | A robust framework for identification of PDEs from noisy data](https://www.sciencedirect.com/science/article/pii/S0021999121005520)
+- [2021 | An improved data-free surrogate model for solving partial differential equations using deep neural networks](https://www.nature.com/articles/s41598-021-99037-x)
+- [2021 | Characterizing possible failure modes in physics-informed neural networks](https://proceedings.neurips.cc/paper/2021/hash/df438e5206f31600e6ae4af72f2725f1-Abstract.html)
+- [2021 | Deep-learning of parametric partial differential equations from sparse and noisy data](https://aip.scitation.org/doi/full/10.1063/5.0042868)
+- [2020 | Cumulative Damage Modeling with Recurrent Neural Networks](https://arc.aiaa.org/doi/abs/10.2514/1.J059250)
+- [|]()
+- [|]()
+- [|]()
+- [|]()
+
+**Blog**
+
 ***
