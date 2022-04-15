@@ -155,11 +155,7 @@ This repository provides a list of either literature review or methods compariso
 - [Deep Learning for Signal Processing: What You Need to Know](https://www.kdnuggets.com/2020/07/deep-learning-signal-processing.html)
 - [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 ***
-## Uncertainty Quantification
-**Scientific Articles**
-
-**Blogs**
-- [Complete and Self-contained Guide on Uncertainty Quantification in Artificial Intelligence-based Systems](https://www.kdnuggets.com/2022/04/uncertainty-quantification-artificial-intelligencebased-systems.html)
+## [Uncertainty Quantification]()
 ***
 
 ## XAI (Explainable AI)
