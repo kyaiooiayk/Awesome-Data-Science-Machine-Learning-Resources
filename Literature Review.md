@@ -134,7 +134,7 @@ This repository provides a list of either literature review or methods compariso
 - [Deep learning: the final frontier for signal processing and time series analysis?](https://alexrachnog.medium.com/deep-learning-the-final-frontier-for-signal-processing-and-time-series-analysis-734307167ad6)
 ***
 
-## [Recommender System]()
+## [Recommender Systems](https://github.com/kyaiooiayk/Data-Science-Machine-Learning-Resources/tree/main/Literature_Review)
 ***
 
 ## Regression
