@@ -1,4 +1,4 @@
-# Literature review
+# Literature Review
 This repository provides a list of either literature review or methods comparisons. No other resources are listed here. Essentially, anything giving an overview of methods or something which provides some guidance between the zoo of model once faces. Ordered by the most recent to the oldest published.
 ***
 
@@ -155,7 +155,8 @@ This repository provides a list of either literature review or methods compariso
 - [Deep Learning for Signal Processing: What You Need to Know](https://www.kdnuggets.com/2020/07/deep-learning-signal-processing.html)
 - [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 ***
-## [Uncertainty Quantification]()
+
+## [Uncertainty Quantification](https://github.com/kyaiooiayk/Data-Science-Machine-Learning-Resources/blob/main/Literature_Review/Uncertainty_Quantification.md)
 ***
 
 ## XAI (Explainable AI)
