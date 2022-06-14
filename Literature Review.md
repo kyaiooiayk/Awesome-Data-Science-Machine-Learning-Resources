@@ -1,5 +1,5 @@
 # Literature Review
-This repository provides a list of either literature review or methods comparisons. No other resources are listed here. Essentially, anything giving an overview of methods or something which provides some guidance between the zoo of model once faces. Ordered by the most recent to the oldest published.
+This repository provides a list of either literature review or methods comparisons. No other resources are listed here. Essentially, anything giving an overview of methods or something which provides some guidance between the zoo of models one faces. Ordered by the most recent to the oldest published.
 ***
 
 ## Autoencoder
