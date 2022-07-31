@@ -114,6 +114,7 @@ This repository provides a list of either literature review or methods compariso
 
 ## NLP
 **Scientific Articles**
+- [2022 | Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916.pdf)
 
 **Blogs**
 - [Rext Mining Our Dealer Reviews](https://engineering.autotrader.co.uk/2017/10/10/text-mining-dealer-reviews.html)
