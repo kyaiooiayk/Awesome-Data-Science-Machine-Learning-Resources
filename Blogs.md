@@ -3,7 +3,7 @@
 
 ## General
 - [AI Summer](https://theaisummer.com/) 
-- [Andrej Karpathy blog](https://karpathy.github.io/)
+- [Andrej Karpathy blog](https://karpathy.github.io/) | [YouTube channel](https://www.youtube.com/c/AndrejKarpathy)
 - [analyticStepsk](https://www.analyticssteps.com/blogs)
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
 - [Blog *by Pranab* withver 10 yrs of posting with a lot of insights on hands-on problems from San Francisco bay area software developer and architect](https://pkghosh.wordpress.com/about/)
