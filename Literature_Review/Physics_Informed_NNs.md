@@ -1,6 +1,6 @@
 # Physics-Informed Neural Networks (PINNs)
 
-**Scientific Articles**
+## Scientific Articles
 - [2022 | Mosaic flows: A transferable deep learning framework for solving PDEs on unseen domains](https://www.sciencedirect.com/science/article/abs/pii/S004578252100668X)
 - [2021 | Three ways to solve partial differential equations with neural networks — A review](https://onlinelibrary.wiley.com/doi/full/10.1002/gamm.202100006)
 - [2021 | SciANN: A Keras/TensorFlow wrapper for scientific computations and physics-informed deep learning using artificial neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0045782520307374)
@@ -16,5 +16,5 @@
 - [2018 | PDE-Net: Learning PDEs from Data](http://proceedings.mlr.press/v80/long18a.html?ref=https://githubhelp.com)
 - [2017 | Learning partial differential equations via data discovery and sparse optimization](https://royalsocietypublishing.org/doi/full/10.1098/rspa.2016.0446)
 
-**Blog**
+## Blog
 - [So, what is a physics-informed neural network?](https://benmoseley.blog/my-research/so-what-is-a-physics-informed-neural-network/)
