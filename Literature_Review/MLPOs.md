@@ -8,5 +8,5 @@
 - [Implementing MLOps on an Edge Device](https://www.kdnuggets.com/2020/08/implementing-mlops-edge-device.html)
 - [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#mlops_level_2_cicd_pipeline_automation)
 - [MLOps and ModelOps: What’s the Difference and Why it Matters](https://www.kdnuggets.com/2021/09/mlops-modelops-difference.html)
-
+- [Data-centric shift](https://spectrum.ieee.org/andrew-ng-data-centric-ai#career)
 
