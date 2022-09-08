@@ -2,6 +2,7 @@
 # NLP
 
 ## Scientific Articles
+- [2022 | Transformer Quality in Linear Time](https://arxiv.org/pdf/2202.10447.pdf)
 - [2022 | Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916.pdf)
 
 ## Blogs
