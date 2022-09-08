@@ -1,4 +1,4 @@
-# Optimiser for Machine Learning
+# Optimisation and Optimiser for Machine Learning
 ***
 
 ## Scientific Articles
