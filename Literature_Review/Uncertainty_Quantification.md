@@ -3,6 +3,7 @@
 
 ## Scientific Articles
 - [2022 | Machine Learning State-of-the-Art with Uncertainties](https://arxiv.org/abs/2204.05173)
+- [2021 | A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511)
 ***
 
 ## Blogs
