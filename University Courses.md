@@ -13,6 +13,7 @@
 - [MIT | Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
 - [MIT | Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 - [MIT | Introduction to Machine Learning](https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/)
+- [MIT | TinyML and Efficient Deep Learning](https://efficientml.ai/)
 
 ***
 - [New York University | DEEP LEARNING DS-GA 1008](https://atcold.github.io/pytorch-Deep-Learning/)
