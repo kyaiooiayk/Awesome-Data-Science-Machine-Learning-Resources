@@ -3,6 +3,7 @@
 ## Scientific Articles
 - [2021 | A literature review on one-class classification and its potential applications in big data](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00514-x)
 - [2019 | Performance Measures for Binary Classification](https://www.sciencedirect.com/science/article/pii/B9780128096338203518?via%3Dihub)
+- [2018 A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks| ](https://proceedings.neurips.cc/paper/2018/file/abdeb6f575ac5c6676b747bca8d09cc2-Paper.pdf)
 - [2018 | Review of Bagging and Boosting Classification Performance on Unbalanced Binary Classification](https://ieeexplore.ieee.org/abstract/document/8692138)
 - [2017 | An up-to-date comparison of state-of-the-art classification algorithms](https://www.sciencedirect.com/science/article/abs/pii/S0957417417302397?via%3Dihub)
 - [2017 | Binary classification performance measures/metrics: A comprehensive visualized roadmap to gain new insights](https://ieeexplore.ieee.org/abstract/document/8093539)
