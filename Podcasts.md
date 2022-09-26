@@ -18,3 +18,4 @@
 - [Last Week in AWS](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/)
 - [The Gradient](https://thegradientpub.substack.com/s/podcast/archive?sort=new)
 - [dats'n'stats *by Thomas Wiecki*](https://www.pydata-podcast.com/)
+- [ Learning Bayesian Statistics *by the PyMC creator*](https://www.youtube.com/channel/UCAwVseuhVrpJFfik_cMHrhQ/videos)
