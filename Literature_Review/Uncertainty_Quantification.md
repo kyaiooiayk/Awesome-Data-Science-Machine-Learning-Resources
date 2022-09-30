@@ -8,3 +8,4 @@
 
 ## Blogs
 - [Complete and Self-contained Guide on Uncertainty Quantification in Artificial Intelligence-based Systems](https://www.kdnuggets.com/2022/04/uncertainty-quantification-artificial-intelligencebased-systems.html)
+- [Uncertainty in Deep Learning — Brief Introduction](https://towardsdatascience.com/uncertainty-in-deep-learning-brief-introduction-1f9a5de3ae04)
