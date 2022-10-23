@@ -2,6 +2,7 @@
 # NLP
 
 ## Scientific Articles
+- [2022 | WIDE ATTENTION IS THE WAY FORWARD FOR TRANSFORMERS](https://arxiv.org/abs/2210.00640?utm_source=substack&utm_medium=email)
 - [2022 | Transformer Quality in Linear Time](https://arxiv.org/pdf/2202.10447.pdf)
 - [2022 | Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916.pdf)
 
