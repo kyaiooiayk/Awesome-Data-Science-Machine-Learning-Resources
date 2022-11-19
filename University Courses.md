@@ -19,13 +19,14 @@
 - [New York University | DEEP LEARNING DS-GA 1008](https://atcold.github.io/pytorch-Deep-Learning/)
 ***
 - [Harvard University | CS109 Data Science](http://cs109.github.io/2015/pages/videos.html)
-- [Harvard University | Convex Optimization EE364a](https://stanford.edu/class/ee364a/lectures.html)
-- [Harward University | CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- [Harvard University | EE364a Convex Optimization](https://stanford.edu/class/ee364a/lectures.html)
+- [Harward University | CS50 Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- [Harvard University | CS197 Learn to do applied deep learning research](https://www.cs197.seas.harvard.edu/)
 ***
 - [Stanford University | CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-- [Stanford University | CS329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/index.html)
-- [Stanford University | CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/index.html)
-- [Stanford University | CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+- [Stanford University | CS329S Machine Learning Systems Design](https://stanford-cs329s.github.io/index.html)
+- [Stanford University | CS224W Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/index.html)
+- [Stanford University | CS224n Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 - [Stanford University | CS230 Deep Learning](https://cs230.stanford.edu/)
 - [Stanford University | EE269 Signal Processing for Machine Learning](http://web.stanford.edu/class/ee269/slides.html)
 ***
