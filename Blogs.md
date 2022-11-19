@@ -50,14 +50,17 @@ Data Science @Uber
 Data Science @Upwork
 Woot
 Zalando
-
+***
 
 ## Others Blogs
 - [Autotrader](https://engineering.autotrader.co.uk/)
 - [CERN](https://db-blog.web.cern.ch/)
 - [DLR](https://www.dlr.de/content/en/institutes/institute-of-data-science.html)
-
 ***
 
 ## Blogs dedicated to finance
 - [AlgoFin](https://algofin.substack.com/)
+
+## Career advices
+- [How I learn machine learning](https://vickiboykis.com/2022/11/10/how-i-learn-machine-learning/)
+***
