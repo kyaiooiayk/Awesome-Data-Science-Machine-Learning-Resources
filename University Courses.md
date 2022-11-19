@@ -1,9 +1,9 @@
 # University Courses
 *Links to some university courses where the instructors published notes, codes and much more*
 ***
-- [Cornell University | CS6787 Advanced Machine Learning Systems](http://www.cs.cornell.edu/courses/cs6787/2021fa/)
-- [Cornell University | Machine Learning CS4780/CS5780](https://www.cs.cornell.edu/courses/cs4780/2018sp/page16/)
-- [Cornell University | Principles of Large-Scale Machine Learning CS4787](https://www.cs.cornell.edu/courses/cs4787/2020sp/)
+- [Cornell University | CS6787 | Advanced Machine Learning Systems](http://www.cs.cornell.edu/courses/cs6787/2021fa/)
+- [Cornell University | CS4780/CS5780 | Machine Learning](https://www.cs.cornell.edu/courses/cs4780/2018sp/page16/)
+- [Cornell University | CS4787 | Principles of Large-Scale Machine Learning](https://www.cs.cornell.edu/courses/cs4787/2020sp/)
 ***
 - [MIT | Recognizing and Learning Object Categories](https://people.csail.mit.edu/torralba/shortCourseRLOC/index.html)
 - [MIT | Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
