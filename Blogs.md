@@ -26,6 +26,7 @@
 - [Kaggle Winner's Blog](https://medium.com/kaggle-blog)
 - [LinkedIn](https://engineering.linkedin.com/blog)
 - [Meta](https://research.facebook.com/research-areas/data-science/)
+- [Netlfix](https://netflixtechblog.com/)
 
 Data Science @Google
 Data Science @Grammarly
@@ -34,7 +35,6 @@ Data Science @Instagram
 Data Science @LinkedIn
 Data Science @Lyft
 Data Science @NASA
-Data Science @Netflix
 Data Science @OLX
 Data Science @OTTO
 Data Science @Paypal
