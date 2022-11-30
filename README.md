@@ -1,7 +1,7 @@
 # Data Science & Machine Learning Resources
 Links to free (mostly?) resources for learning about Data Science
 
-## [Best Practices](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Best%20Practices.md)
+## [Best Practices](https://github.com/kyaiooiayk/Data-Science-Resources/resources/blob/main/Best%20Practices.md)
 *Link to resources about AI and ML best practices*
 
 ## [Books](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/Books.md)
