@@ -32,4 +32,5 @@
 
 ## Behavioural preparation
 - [Behavioural questions based on the 14 Amazon Leadership Principles](https://www.levels.fyi/blog/amazon-leadership-principles.html)
+- [73 Questions to Ask Employees During an Interview](https://articles.bplans.com/hiring-employees-here-are-over-70-must-ask-interview-questions/)
 ***
