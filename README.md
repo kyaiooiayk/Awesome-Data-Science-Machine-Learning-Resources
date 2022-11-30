@@ -10,22 +10,22 @@ Links to free (mostly?) resources for learning about Data Science
 ## [Blogs](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/resources/Blogs.md)
 *Blogs discussing AI/ML topics*
 
-## [Certifications](https://github.com/kyaiooiayk/Data-Science-Resources/blob/mainresources//Certifications.md)
+## [Certifications](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/resources//Certifications.md)
 *List of online certifications*
 
-## [Competitions](https://github.com/kyaiooiayk/Data-Science-Resources/blob/mainresources//Competitions.md)
+## [Competitions](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/resources//Competitions.md)
 *Competitions with prize money!*
 
-## [Datasets](https://github.com/kyaiooiayk/Data-Science-Machine-Learning-Resources/blob/mainresources//Dataset.md)
+## [Datasets](https://github.com/kyaiooiayk/Data-Science-Machine-Learning-Resources/blob/main/resources//Dataset.md)
 *List of links to dataset repositories*
 
 ## [Data Repository](https://github.com/kyaiooiayk/Data-Science-Machine-Learning-Resources/blob/main/resources/DataRepository.md)
 *List of repositories of freely available data repositories*
 
-## [Important people](https://github.com/kyaiooiayk/Data-Science-Resources/blob/mainresources//Important%20People.md)
+## [Important people](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/resources//Important%20People.md)
 *Links to the homepages of the most influencial people in AI/ML/DL*
 
-## [Interview Preparation](https://github.com/kyaiooiayk/Data-Science-Resources/blob/mainresources//Interview%20Preparation.md)
+## [Interview Preparation](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/resources//Interview%20Preparation.md)
 *Links to websites/resources that prepare you for interviews*
 
 ## [Literature Review](https://github.com/kyaiooiayk/Data-Science-Machine-Learning-Resources/tree/main/resources/Literature_Review)
@@ -40,13 +40,13 @@ Links to free (mostly?) resources for learning about Data Science
 ## [News](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/resources/News.md)
 *News on AI/ML/DL topics*
 
-## [Other Git-Hub resources](https://github.com/kyaiooiayk/Data-Science-Resources/blob/mainresources//Other%20Git-Hub%20Resources.md)
+## [Other Git-Hub resources](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/resources//Other%20Git-Hub%20Resources.md)
 *Links to other useful Git-Hub repositories providing a huge breath of additional resources*
 
-## [Online Courses](https://github.com/kyaiooiayk/Data-Science-Resources/blob/mainresources//Online%20Courses.md)
+## [Online Courses](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/resources//Online%20Courses.md)
 *Non academic courses, focused on prgramming and deployment*
 
-## [Programming](https://github.com/kyaiooiayk/Data-Science-Resources/blob/mainresources//Programming.md)
+## [Programming](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/resources//Programming.md)
 *Links to python online courses*
 
 ## [Podcasts](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/resources/Podcasts.md)
