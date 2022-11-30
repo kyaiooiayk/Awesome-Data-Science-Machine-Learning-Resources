@@ -12,6 +12,7 @@
 - [List of interview questions](https://github.com/alexeygrigorev/data-science-interviews) *by Alexey Grigorev* 
 - [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) *by Chip Huyen*
 - [1001 Data Engineering Interview Questions](https://github.com/andkret/Cookbook/blob/master/sections/08-InterviewQuestions.md) *by Andreas Kretz*
+- [60+ Data Engineer Interview Questions and Answers in 2022](https://www.guru99.com/data-engineer-interview-questions.html) *by guru99*
 ***
 
 ## Programming
