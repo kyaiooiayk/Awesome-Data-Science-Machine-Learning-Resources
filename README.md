@@ -16,6 +16,8 @@ Links to free (mostly?) resources for learning about Data Science
 ## [Competitions](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/resources//Competitions.md)
 *Competitions with prize money!*
 
+## [Conferences](https://github.com/kyaiooiayk/Awesome-Data-Science-Machine-Learning-Resources/blob/main/resources/Conferences.md)
+
 ## [Datasets](https://github.com/kyaiooiayk/Data-Science-Machine-Learning-Resources/blob/main/resources//Dataset.md)
 *List of links to dataset repositories*
 
