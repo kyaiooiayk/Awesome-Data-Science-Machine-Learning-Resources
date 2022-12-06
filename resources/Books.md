@@ -176,6 +176,7 @@
 - Large Scale Machine Learning with Python *by Sjardin, Bastiaan, Luca Massaron, and Alberto Boschetti* [notebooks](https://github.com/packtpublishing/large-scale-machine-learning-with-python)
 - Introduction to machine learning with python *by Guido, Sarah, and Andreas Müller* [notebooks](https://github.com/amueller/introduction_to_ml_with_python)
 - [Pydon'ts *by Rodrigo G I R Ã O S E R R Ã O*](https://mathspp.gumroad.com/l/pydonts)
+- [Cython: A Guide for Python Programmers *Kurt W. Smith’*](https://www.oreilly.com/library/view/cython/9781491901731/)
 
 *Java & JavaScript*
 - Practical Artificial Intelligence Programming in Java [link](https://www.saylor.org/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)
