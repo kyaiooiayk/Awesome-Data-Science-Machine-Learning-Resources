@@ -64,3 +64,7 @@ Zalando
 ## Career advices
 - [How I learn machine learning](https://vickiboykis.com/2022/11/10/how-i-learn-machine-learning/)
 ***
+
+## Programming
+- [Water Programming: A Collaborative Research Blog](https://waterprogramming.wordpress.com/)
+***
