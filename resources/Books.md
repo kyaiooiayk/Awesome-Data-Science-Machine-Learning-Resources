@@ -206,4 +206,4 @@
 ***
 
 ## Time series
-- [Signal Processing for Communications *by Paolo Prandoni and Martin Vetterli*](https://www.sp4comm.org/)
+- Signal Processing for Communications *by Paolo Prandoni and Martin Vetterli* [link](https://www.sp4comm.org/)
