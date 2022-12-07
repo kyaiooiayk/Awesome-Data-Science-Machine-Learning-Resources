@@ -151,6 +151,12 @@
 - Probabilistic Machine learning by *Kevin Murphy* [notebooks](https://github.com/probml)
 ***
 
+## Programming
+- Pydon'ts *by Rodrigo G I R Ã O S E R R Ã O* [link](https://mathspp.gumroad.com/l/pydonts)
+- Cython: A Guide for Python Programmers *Kurt W. Smith* [link](https://www.oreilly.com/library/view/cython/9781491901731/)
+- High Performance Python: Practical Performant Programming for Humans *by Micha Gorelick and Ian Ozsvald’s* [link](https://www.oreilly.com/library/view/high-performance-python/9781492055013/)
+***
+
 ## Human-in-the-loop, Reinforcement/Active Learning
 - Reinforcement Learning: - An Introduction *by Sutton adn Barto* [1st edition](http://incompleteideas.net/book/the-book-2nd.html) | [2nd edition](https://d18ky98rnyall9.cloudfront.net/Ph9QFZnEEemRfw7JJ0OZYA_808e8e7d9a544e1eb31ad11069d45dc4_RLbook2018.pdf?Expires=1643587200&Signature=RPs6xs41J~GOBi~8s1e1suzrbeth6yMK7DBbhZXN9sm8GK3IJbzteZP2rzWgjL~jriqn0s2az7KSsvyjaAC-oQ1KCCG6Xs8dLsrid6LxPvywiT43aMhLB~CT-IQ-IDOu~G9WRm0o8bMXfwD6Y~8uq~lx5JSKEffuYulPNFvtuDI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 - Reinforcement Learning [link](https://www.intechopen.com/books/reinforcement_learning)
@@ -175,8 +181,6 @@
 - [Python Data Science Handbook *by Jake VanderPlas*](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf) [[Notebooks]](https://github.com/jakevdp/PythonDataScienceHandbook)
 - Large Scale Machine Learning with Python *by Sjardin, Bastiaan, Luca Massaron, and Alberto Boschetti* [notebooks](https://github.com/packtpublishing/large-scale-machine-learning-with-python)
 - Introduction to machine learning with python *by Guido, Sarah, and Andreas Müller* [notebooks](https://github.com/amueller/introduction_to_ml_with_python)
-- [Pydon'ts *by Rodrigo G I R Ã O S E R R Ã O*](https://mathspp.gumroad.com/l/pydonts)
-- [Cython: A Guide for Python Programmers *Kurt W. Smith’*](https://www.oreilly.com/library/view/cython/9781491901731/)
 
 *Java & JavaScript*
 - Practical Artificial Intelligence Programming in Java [link](https://www.saylor.org/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)
