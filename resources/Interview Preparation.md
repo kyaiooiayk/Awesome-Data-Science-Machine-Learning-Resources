@@ -8,11 +8,12 @@
 - [How to Negotiate Your Tech Salary Simulation ft. Levels.fyi](https://www.youtube.com/watch?v=fyn0CKPuPlA)
 ***
 
-## List of interview questions
+## List of question bank
 - [List of interview questions](https://github.com/alexeygrigorev/data-science-interviews) *by Alexey Grigorev* 
 - [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) *by Chip Huyen*
 - [1001 Data Engineering Interview Questions](https://github.com/andkret/Cookbook/blob/master/sections/08-InterviewQuestions.md) *by Andreas Kretz*
 - [60+ Data Engineer Interview Questions and Answers in 2022](https://www.guru99.com/data-engineer-interview-questions.html) *by guru99*
+- [Cracking the data science interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview/tree/master/Question-Bank)
 ***
 
 ## Programming
