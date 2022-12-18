@@ -7,4 +7,5 @@
 - [Natural Language Processing (NLP) for Semantic Search *by James Briggs at Pinecone*](https://www.pinecone.io/learn/nlp/?utm_medium=link&utm_source=data-science-weekly&utm_campaign=sponsored)
 - [Reproducible Deep Learning *by Simone Scardapane*](https://www.sscardapane.it/teaching/reproducibledl/)
 - [Made with ML *by Goku Mohandas*](https://madewithml.com/)
+- [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/)
 ***
