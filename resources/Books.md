@@ -163,7 +163,7 @@
 - Human-in-the-Loop Machine Learning *by Robert Monarch* [notebooks](https://github.com/rmunro/pytorch_active_learning)
 ***
 
-## Books Focused on Programing
+## Books Focused on Programming
 
 *R*
 - Advanced R Programming [link](http://adv-r.had.co.nz)
