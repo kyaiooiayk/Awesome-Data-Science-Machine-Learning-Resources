@@ -20,3 +20,5 @@
 - [dats'n'stats *by Thomas Wiecki*](https://www.pydata-podcast.com/)
 - [Learning Bayesian Statistics *by the PyMC creator*](https://www.youtube.com/channel/UCAwVseuhVrpJFfik_cMHrhQ/videos)
 - [The Data Scientist Show *by Daliana Liu*](https://www.youtube.com/c/thedatascientistshow/videos)
+- [Vanishing Gradients *by Hugo Bowne-Anderson*](https://vanishinggradients.fireside.fm/episodes)
+***
