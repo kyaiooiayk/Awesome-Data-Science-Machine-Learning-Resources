@@ -9,4 +9,5 @@
 
 ## Blogs
 - [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
+- [An updated overview of recent gradient descent algorithms](https://johnchenresearch.github.io/demon/)
 ***
