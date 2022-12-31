@@ -100,15 +100,15 @@
 ***
  
 ## MLOps
-- MLOps Engineering at Scale [link](https://www.manning.com/books/mlops-engineering-at-scale)
-- Building the Data Lakehouse *by Bill Inmon*, required registration [link](https://databricks.com/p/ebook/building-the-data-lakehouse?utm_source=kdn-&utm_medium=thirdparty&utm_campaign=7013f000000LiABAA0&utm_content=email)
-- Building Machine Learning Pipelines *by Hannes Hapke, Catherine Nelson* [link](https://books.google.co.uk/books?hl=en&lr=&id=H6_wDwAAQBAJ&oi=fnd&pg=PR4&dq=building+machine+learning+pipelines&ots=ZWQaG_Muxu&sig=jv5UkKcYrzezA57Ofn9oppfAxzU&redir_esc=y#v=onepage&q=building%20machine%20learning%20pipelines&f=false) [code](https://github.com/Building-ML-Pipelines/building-machine-learning-pipelines)
+- [MLOps Engineering at Scale](https://www.manning.com/books/mlops-engineering-at-scale)
+- [Building the Data Lakehouse *by Bill Inmon*, required registration](https://databricks.com/p/ebook/building-the-data-lakehouse?utm_source=kdn-&utm_medium=thirdparty&utm_campaign=7013f000000LiABAA0&utm_content=email)
+- [Building Machine Learning Pipelines *by Hannes Hapke, Catherine Nelson*](https://books.google.co.uk/books?hl=en&lr=&id=H6_wDwAAQBAJ&oi=fnd&pg=PR4&dq=building+machine+learning+pipelines&ots=ZWQaG_Muxu&sig=jv5UkKcYrzezA57Ofn9oppfAxzU&redir_esc=y#v=onepage&q=building%20machine%20learning%20pipelines&f=false) [[notebooks](https://github.com/Building-ML-Pipelines/building-machine-learning-pipelines)]
 ***
  
 ## Natural Language Processing
-- Coursera Course Book on NLP [link](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html)
-- Data Intensive Text Processing w/ MapReduce [link](https://lintool.github.io/MapReduceAlgorithms/)
-- Essential Natural Language Processing [link](https://www.manning.com/books/essential-natural-language-processing) 
+- [Coursera Course Book on NLP](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html)
+- [Data Intensive Text Processing w/ MapReduce](https://lintool.github.io/MapReduceAlgorithms/)
+- [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) 
 - Foundations of Statistical Natural Language Processing [link](https://nlp.stanford.edu/fsnlp/promo/)
 - NLTK [link](https://www.nltk.org/book/)
 - Natural Language Processing in Action [link](https://www.manning.com/books/natural-language-processing-in-action)
