@@ -13,4 +13,5 @@
 - [How to use Word2Vecto establish how similar two cars are](https://engineering.autotrader.co.uk/2021/02/17/interchangeable-stock.html)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Transformers from Scratch](https://e2eml.school/transformers.html#multihead)
+- [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 ***
