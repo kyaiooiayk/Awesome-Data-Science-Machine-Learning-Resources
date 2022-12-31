@@ -102,6 +102,7 @@
 ## MLOps
 - MLOps Engineering at Scale [link](https://www.manning.com/books/mlops-engineering-at-scale)
 - Building the Data Lakehouse *by Bill Inmon*, required registration [link](https://databricks.com/p/ebook/building-the-data-lakehouse?utm_source=kdn-&utm_medium=thirdparty&utm_campaign=7013f000000LiABAA0&utm_content=email)
+- Building Machine Learning Pipelines *by Hannes Hapke, Catherine Nelson* [link](https://books.google.co.uk/books?hl=en&lr=&id=H6_wDwAAQBAJ&oi=fnd&pg=PR4&dq=building+machine+learning+pipelines&ots=ZWQaG_Muxu&sig=jv5UkKcYrzezA57Ofn9oppfAxzU&redir_esc=y#v=onepage&q=building%20machine%20learning%20pipelines&f=false) [code](https://github.com/Building-ML-Pipelines/building-machine-learning-pipelines)
 ***
  
 ## Natural Language Processing
