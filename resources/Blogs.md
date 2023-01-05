@@ -58,6 +58,10 @@ Zalando
 - [DLR](https://www.dlr.de/content/en/institutes/institute-of-data-science.html)
 ***
 
+## MLOps
+- [MLOps blog by nepture.ai](https://neptune.ai/blog)
+***
+
 ## Blogs dedicated to finance
 - [AlgoFin](https://algofin.substack.com/)
 
