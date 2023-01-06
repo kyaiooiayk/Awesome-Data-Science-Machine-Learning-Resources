@@ -59,7 +59,8 @@ Zalando
 ***
 
 ## MLOps
-- [MLOps blog by nepture.ai](https://neptune.ai/blog)
+- [MLOps blog *by nepture.ai*](https://neptune.ai/blog)
+- [MLOps blog *by AI SUMMER*](https://theaisummer.com/topics/mlops/)
 ***
 
 ## Blogs dedicated to finance
