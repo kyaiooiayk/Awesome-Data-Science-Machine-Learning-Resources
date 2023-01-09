@@ -61,6 +61,7 @@ Zalando
 ## MLOps
 - [MLOps blog *by nepture.ai*](https://neptune.ai/blog)
 - [MLOps blog *by AI SUMMER*](https://theaisummer.com/topics/mlops/)
+- [Machine Learning Operations *by INNOQ*](https://ml-ops.org/)
 ***
 
 ## Blogs dedicated to finance
