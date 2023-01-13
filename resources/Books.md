@@ -157,7 +157,7 @@
 - Pydon'ts *by Rodrigo G I R Ã O S E R R Ã O* [link](https://mathspp.gumroad.com/l/pydonts)
 - Cython: A Guide for Python Programmers *Kurt W. Smith* [link](https://www.oreilly.com/library/view/cython/9781491901731/)
 - High Performance Python: Practical Performant Programming for Humans *by Micha Gorelick and Ian Ozsvald’s* [link](https://www.oreilly.com/library/view/high-performance-python/9781492055013/)
-- [Software Engineering at Google: Lessons learned from programming over time *by T Winters, T Manshreck, H Wright*](https://abseil.io/resources/swe-book/html/toc.html)
+- Software Engineering at Google: Lessons learned from programming over time *by T Winters, T Manshreck, H Wright* [link](https://abseil.io/resources/swe-book/html/toc.html)
 ***
 
 ## Human-in-the-loop, Reinforcement/Active Learning
