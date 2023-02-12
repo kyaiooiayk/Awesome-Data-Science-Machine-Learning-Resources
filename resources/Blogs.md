@@ -1,5 +1,6 @@
 # Blogs
 *Blogs discussing AI/ML topics*
+***
 
 ## General
 - [AI Summer](https://theaisummer.com/) 
@@ -12,6 +13,8 @@
 - [Machine Learnign Mastery *by Jason Brownlee*](https://machinelearningmastery.com/)
 - [Natural Intelligence, A science blog by *Sam Greydanus*](https://greydanus.github.io/)
 - [Towards Data Science](https://towardsdatascience.com/)
+- [ML techniques *by Vincent Granville*](https://mltechniques.com/category/featured/)
+- [Data science central *by Vincent Granville*](https://www.datasciencecentral.com/?s=vincent+granville)
 ***
 
 ## Big Tech Blogs
@@ -66,6 +69,7 @@ Zalando
 
 ## Blogs dedicated to finance
 - [AlgoFin](https://algofin.substack.com/)
+***
 
 ## Career advices
 - [How I learn machine learning](https://vickiboykis.com/2022/11/10/how-i-learn-machine-learning/)
