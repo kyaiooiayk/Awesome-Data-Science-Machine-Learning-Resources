@@ -1,5 +1,6 @@
 # Online Courses
 *Non academic courses, focused on programming and deployment*
+***
 
 - [Fast.ai Practical Deep Learning for Coders](https://course.fast.ai/)
 - [Full Stack Deep Learning *by UC Berkeley*](https://fullstackdeeplearning.com/)
@@ -8,4 +9,5 @@
 - [Reproducible Deep Learning *by Simone Scardapane*](https://www.sscardapane.it/teaching/reproducibledl/)
 - [Made with ML *by Goku Mohandas*](https://madewithml.com/)
 - [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/)
+- [DataTalks.Club - data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 ***
