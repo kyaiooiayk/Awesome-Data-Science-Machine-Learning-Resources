@@ -25,12 +25,8 @@ Links to free (mostly?) resources for learning about Data Science
 ## [Conferences](https://github.com/kyaiooiayk/Awesome-Data-Science-Machine-Learning-Resources/blob/main/resources/Conferences.md)
 ***
 
-## [Datasets](https://github.com/kyaiooiayk/Data-Science-Machine-Learning-Resources/blob/main/resources//Dataset.md)
-*List of links to dataset repositories*
-***
-
-## [Data Repository](https://github.com/kyaiooiayk/Data-Science-Machine-Learning-Resources/blob/main/resources/DataRepository.md)
-*List of repositories of freely available data repositories*
+## [Datasets | Repository | Dumps](https://github.com/kyaiooiayk/Data-Science-Machine-Learning-Resources/blob/main/resources//Dataset.md)
+*List of links to datasets, repositoies and dumps*
 ***
 
 ## [Important people](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/resources//Important%20People.md)
