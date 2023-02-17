@@ -22,5 +22,6 @@
 - [The Data Scientist Show *by Daliana Liu*](https://www.youtube.com/c/thedatascientistshow/videos)
 - [Vanishing Gradients *by Hugo Bowne-Anderson*](https://vanishinggradients.fireside.fm/episodes)
 - [MLOps community by *Demetrios Brinkmann*](https://podcasts.apple.com/us/podcast/mlops-community/id1505372978)
-- [ Data Engineering Podcast *by Tobias Macey*](https://www.dataengineeringpodcast.com/) | Weekly deep dives on data management with the engineers and entrepreneurs who are shaping the industry 
+- [Data Engineering Podcast *by Tobias Macey*](https://www.dataengineeringpodcast.com/) | Weekly deep dives on data management with the engineers and entrepreneurs who are shaping the industry 
+- [Infinite Machine Learning *by Prateek Joshi*](https://podcasts.apple.com/us/podcast/infinite-machine-learning/id1615142314) | A podcast where Prateek Joshi interviews world-class practitioners, founders, and investors in the field of Machine Learning. Each episode dives deep into a specific topic to explore how to build ML products, how to use Data to fuel those products, and how those products can achieve the goal of Artificial Intelligence.
 ***
