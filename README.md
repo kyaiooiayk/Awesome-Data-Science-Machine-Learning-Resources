@@ -53,6 +53,10 @@ Links to free (mostly?) resources for learning about Data Science
 *News on AI/ML/DL topics*
 ***
 
+## [Newsletter]()
+*Newsletter on AI/ML/DL topics*
+***
+
 ## [Other Git-Hub resources](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/resources//Other%20Git-Hub%20Resources.md)
 *Links to other useful Git-Hub repositories providing a huge breath of additional resources*
 ***
