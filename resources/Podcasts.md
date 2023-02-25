@@ -14,7 +14,7 @@
 - [DeepMind: The Podcast *by Hannah Fry*](https://link.chtbl.com/DeepMind)
 - [Podcasts *by thoughtworks*](https://www.thoughtworks.com/insights/podcasts)
 - [SWD (Storytelling With Data by *Cole Nussbaumer Knaflic*) podcast](https://www.storytellingwithdata.com/podcast)
-- [Datacast Datacast follows the narrative journey of data practitioners and researchers to unpack the career lessons they learned along the way. James Le hosts the show](https://datacast.simplecast.com/)
+- [Datacast *by James Le*](https://datacast.simplecast.com/) | Datacast follows the narrative journey of data practitioners and researchers to unpack the career lessons they learned along the way.
 - [Last Week in AWS](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/)
 - [The Gradient](https://thegradientpub.substack.com/s/podcast/archive?sort=new)
 - [dats'n'stats *by Thomas Wiecki*](https://www.pydata-podcast.com/)
