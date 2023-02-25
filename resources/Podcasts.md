@@ -16,7 +16,7 @@
 - [SWD (Storytelling With Data by *Cole Nussbaumer Knaflic*) podcast](https://www.storytellingwithdata.com/podcast)
 - [Datacast *by James Le*](https://datacast.simplecast.com/) | Datacast follows the narrative journey of data practitioners and researchers to unpack the career lessons they learned along the way.
 - [Last Week in AWS](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/)
-- [The Gradient](https://thegradientpub.substack.com/s/podcast/archive?sort=new)
+- [The Gradient Podcast *by Stanford AI Lab*](https://thegradientpub.substack.com/s/podcast/archive?sort=new) | Interviews with various people who research, build, or use AI, including academics, engineers, artists, entrepreneurs, and more.
 - [dats'n'stats *by Thomas Wiecki*](https://www.pydata-podcast.com/)
 - [Learning Bayesian Statistics *by the PyMC creator*](https://www.youtube.com/channel/UCAwVseuhVrpJFfik_cMHrhQ/videos)
 - [The Data Scientist Show *by Daliana Liu*](https://www.youtube.com/c/thedatascientistshow/videos)
