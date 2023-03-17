@@ -15,6 +15,7 @@
 - [Towards Data Science](https://towardsdatascience.com/)
 - [ML techniques *by Vincent Granville*](https://mltechniques.com/category/featured/)
 - [Data science central *by Vincent Granville*](https://www.datasciencecentral.com/?s=vincent+granville)
+- [Sebastian Raschka's blog](https://sebastianraschka.com/blog/index.html)
 ***
 
 ## Big Tech Blogs
@@ -31,11 +32,11 @@
 - [Meta](https://research.facebook.com/research-areas/data-science/)
 - [Netlfix](https://netflixtechblog.com/)
 
-Data Science @Google
-Data Science @Grammarly
-Data Science @ING Fraud
-Data Science @Instagram
-Data Science @LinkedIn
+Google
+Grammarly
+ING Fraud
+Instagram
+LinkedIn
 Data Science @Lyft
 Data Science @NASA
 Data Science @OLX
