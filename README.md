@@ -37,7 +37,7 @@ Links to free (mostly?) resources for learning about Data Science
 *Links to websites/resources that prepare you for interviews*
 ***
 
-## [Literature Review](https://github.com/kyaiooiayk/Data-Science-Machine-Learning-Resources/tree/main/resources/Literature_Review)
+## 📚[Literature Review](https://github.com/kyaiooiayk/Data-Science-Machine-Learning-Resources/tree/main/resources/Literature_Review)
 *This repository provides a list of either literature review or methods comparisons. No other resources are listed here. Essentially, anything giving an overview of methods or something which provides some guidance between the zoo of model once faces. Ordered by the most recent to the oldest published.*
 ***
 
