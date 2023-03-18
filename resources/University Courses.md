@@ -1,4 +1,4 @@
-# University Courses
+# 🎓University Courses🎓
 *Links to some university courses where the instructors published notes, codes and much more*
 ***
 - [Cornell University | CS6787 | Advanced Machine Learning Systems](http://www.cs.cornell.edu/courses/cs6787/2021fa/)
@@ -30,6 +30,10 @@
 - [Stanford University | CS230 | Deep Learning](https://cs230.stanford.edu/)
 - [Stanford University | EE269 | Signal Processing for Machine Learning](http://web.stanford.edu/class/ee269/slides.html)
 ***
+
 - [Toronto University | CSC321 | Introduction to Neural Networks and Machine Learning](http://www.cs.toronto.edu/~tijmen/csc321/)
 ***
+
 - [Wisconsin-Madison University | CS300 | Data Management for Data Science](https://www.kdnuggets.com/2023/01/free-data-management-data-science-learning-cs639.html) 
+- [Wisconsin-Madison University | STAT 479 | Deep Learning (Spring 2019)](https://sebastianraschka.com/teaching/stat479-ss2019/)
+***
