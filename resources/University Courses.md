@@ -36,4 +36,5 @@
 
 - [Wisconsin-Madison University | CS300 | Data Management for Data Science](https://www.kdnuggets.com/2023/01/free-data-management-data-science-learning-cs639.html) 
 - [Wisconsin-Madison University | STAT 479 | Deep Learning (Spring 2019)](https://sebastianraschka.com/teaching/stat479-ss2019/)
+- [Wisconsin-Madison University | STAT 479 | Machine Learning (Fall 2019)](https://sebastianraschka.com/teaching/stat479-fs2019/)
 ***
