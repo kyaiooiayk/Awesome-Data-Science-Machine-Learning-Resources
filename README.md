@@ -81,7 +81,7 @@ Links to free (mostly?) resources for learning about Data Science
 *A list of non-academic publications*
 ***
 
-## [Scientific Article Repositories](https://github.com/kyaiooiayk/Awesome-Data-Science-Machine-Learning-Resources/blob/main/resources/Scientific%20Articles_Repositories.md)
+## 🧪[Scientific Article Repositories](https://github.com/kyaiooiayk/Awesome-Data-Science-Machine-Learning-Resources/blob/main/resources/Scientific%20Articles_Repositories.md)
 *Scientific articles repositories*
 ***
 
