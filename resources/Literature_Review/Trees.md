@@ -9,3 +9,7 @@
 ##  Blogs
 -
 ***
+
+## Notes
+- [Google Slide Notes](https://drive.google.com/drive/u/1/folders/1M387UBEKSnhdHfUVFy5A_88Vh6JcG8KM)
+***
