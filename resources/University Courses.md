@@ -38,6 +38,7 @@
 - [Stanford University | CS224n | Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 - [Stanford University | CS230 | Deep Learning](https://cs230.stanford.edu/)
 - [Stanford University | EE269 | Signal Processing for Machine Learning](http://web.stanford.edu/class/ee269/slides.html)
+- [Stanford University | CS224W | Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 ***
 
 ## Toronto University
