@@ -1,5 +1,5 @@
 
-# Podcasts
+# 🎙 Podcasts 🎙
 *List of podcasts on ML/AI/DL*
 
 - [Plumbers of Data Science, a podcast about data engineering *by Andreas Kretz*](https://anchor.fm/andreaskayy)
@@ -24,4 +24,13 @@
 - [MLOps community by *Demetrios Brinkmann*](https://podcasts.apple.com/us/podcast/mlops-community/id1505372978)
 - [Data Engineering Podcast *by Tobias Macey*](https://www.dataengineeringpodcast.com/) | Weekly deep dives on data management with the engineers and entrepreneurs who are shaping the industry 
 - [Infinite Machine Learning *by Prateek Joshi*](https://podcasts.apple.com/us/podcast/infinite-machine-learning/id1615142314) | A podcast where Prateek Joshi interviews world-class practitioners, founders, and investors in the field of Machine Learning. Each episode dives deep into a specific topic to explore how to build ML products, how to use Data to fuel those products, and how those products can achieve the goal of Artificial Intelligence.
+- [O’Reilly Data Show *by Ben Lorica, Chief Data Scientist at O’Reilly Media*](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
+- [Not So Standard Deviations *by Roger Peng (of the Johns Hopkins Bloomberg School of Public Health) and Hilary Parker (of Stitch Fix) co-host this podcast.*](https://nssdeviations.com/)
+- [Data Stories *by Enrico Bertini and Moritz Stefaner*](https://datastori.es/)
+- [SuperDataScience *by Kirill Eremenko*](https://www.superdatascience.com/podcast/)
+- [Data Science at Home *by Francesco Gadaleta*](https://datascienceathome.com/)
+- [This Week in Machine Learning & Artificial Intelligence (TWiML&AI) *by Sam Charrington*](https://twimlai.com/)
+- [DataFramed *by Hugo Bowne-Anderson*](https://www.datacamp.com/podcast)
+- [Learning Machines 101 *by Dr. Richard Golden*](https://www.learningmachines101.com/)
+- [Artificial Intelligence in Industry *by Dan*](https://techemergence.libsyn.com/)
 ***
