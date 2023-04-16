@@ -29,7 +29,7 @@ Links to free (mostly?) resources for learning about Data Science
 *List of links to datasets, repositoies and dumps*
 ***
 
-## [Important people](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/resources//Important%20People.md)
+## 👥 [Important people - Infuencers](https://github.com/kyaiooiayk/Data-Science-Resources/blob/main/resources//Important%20People.md)
 *Links to the homepages of the most influencial people in AI/ML/DL*
 ***
 
