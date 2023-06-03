@@ -27,7 +27,7 @@
 - [O’Reilly Data Show *by Ben Lorica, Chief Data Scientist at O’Reilly Media*](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
 - [Not So Standard Deviations *by Roger Peng (of the Johns Hopkins Bloomberg School of Public Health) and Hilary Parker (of Stitch Fix) co-host this podcast.*](https://nssdeviations.com/)
 - [Data Stories *by Enrico Bertini and Moritz Stefaner*](https://datastori.es/)
-- [SuperDataScience *by Kirill Eremenko*](https://www.superdatascience.com/podcast/)
+- [SuperDataScience *by Dr. Jon Krohn*](https://www.superdatascience.com/podcast/)
 - [Data Science at Home *by Francesco Gadaleta*](https://datascienceathome.com/)
 - [This Week in Machine Learning & Artificial Intelligence (TWiML&AI) *by Sam Charrington*](https://twimlai.com/)
 - [DataFramed *by Hugo Bowne-Anderson*](https://www.datacamp.com/podcast)
