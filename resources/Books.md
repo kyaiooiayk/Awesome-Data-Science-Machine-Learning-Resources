@@ -58,7 +58,8 @@
 - Machine learning systems design *by Chip Huyen* [link](https://huyenchip.com/machine-learning-systems-design/toc.html)
 - Python Machine Learning *by Sebastian Raschka* [notebooks](https://github.com/rasbt/python-machine-learning-book)
 - Machine Learning with PyTorch and Scikit-Learn *by Sebastian Raschka* [notebooks](https://github.com/rasbt/machine-learning-book)
- ***
+- Learning Theory from First Principles by *Francis Bach* [link](https://www.di.ens.fr/~fbach/ltfp_book.pdf?utm_source=substack&utm_medium=email)
+***
  
 ## Math for Machine Learning
 - [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares *by Stephen Boyd and Lieven Vandenberghe*](https://web.stanford.edu/~boyd/vmls/)
