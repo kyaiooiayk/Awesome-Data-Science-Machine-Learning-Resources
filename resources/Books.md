@@ -155,10 +155,11 @@
 ***
 
 ## Programming
-- Pydon'ts *by Rodrigo G I R Ã O S E R R Ã O* [link](https://mathspp.gumroad.com/l/pydonts)
-- Cython: A Guide for Python Programmers *Kurt W. Smith* [link](https://www.oreilly.com/library/view/cython/9781491901731/)
-- High Performance Python: Practical Performant Programming for Humans *by Micha Gorelick and Ian Ozsvald’s* [link](https://www.oreilly.com/library/view/high-performance-python/9781492055013/)
-- Software Engineering at Google: Lessons learned from programming over time *by T Winters, T Manshreck, H Wright* [link](https://abseil.io/resources/swe-book/html/toc.html)
+- [Pydon'ts *by Rodrigo G I R Ã O S E R R Ã O*](https://mathspp.gumroad.com/l/pydonts)
+- [Cython: A Guide for Python Programmers *Kurt W. Smith*](https://www.oreilly.com/library/view/cython/9781491901731/)
+- [High Performance Python: Practical Performant Programming for Humans *by Micha Gorelick and Ian Ozsvald’s*](https://www.oreilly.com/library/view/high-performance-python/9781492055013/)
+- [Software Engineering at Google: Lessons learned from programming over time *by T Winters, T Manshreck, H Wright*](https://abseil.io/resources/swe-book/html/toc.html)
+- [Effect Python *by  Brett Slatkin*](https://www.amazon.co.uk/Effective-Python-Specific-Software-Development/dp/0134853989/ref=sr_1_1?crid=QQ6L17M7OEO1&keywords=ffective+Python%3A+90+Specific+Ways+to+Write+Better+Python&qid=1691231444&s=books&sprefix=ffective+python+90+specific+ways+to+write+better+python%2Cstripbooks%2C65&sr=1-1)
 ***
 
 ## Human-in-the-loop, Reinforcement/Active Learning
@@ -167,7 +168,7 @@
 - Human-in-the-Loop Machine Learning *by Robert Monarch* [notebooks](https://github.com/rmunro/pytorch_active_learning)
 ***
 
-## Books Focused on Programming
+## Books Focused on Programming for ML
 
 *R*
 - Advanced R Programming [link](http://adv-r.had.co.nz)
