@@ -105,6 +105,7 @@
 - [Building the Data Lakehouse *by Bill Inmon*, required registration](https://databricks.com/p/ebook/building-the-data-lakehouse?utm_source=kdn-&utm_medium=thirdparty&utm_campaign=7013f000000LiABAA0&utm_content=email)
 - [Building Machine Learning Pipelines *by Hannes Hapke, Catherine Nelson*](https://books.google.co.uk/books?hl=en&lr=&id=H6_wDwAAQBAJ&oi=fnd&pg=PR4&dq=building+machine+learning+pipelines&ots=ZWQaG_Muxu&sig=jv5UkKcYrzezA57Ofn9oppfAxzU&redir_esc=y#v=onepage&q=building%20machine%20learning%20pipelines&f=false) [[notebooks](https://github.com/Building-ML-Pipelines/building-machine-learning-pipelines)]
 - Deep Learning in Production *by Sergios Karagiannakos* [[GitHub](https://github.com/The-AI-Summer/Deep-Learning-In-Production)]
+- [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering?tab=readme-ov-file) *by Stas Bekman* is an open collection of methodologies, tools and step by step instructions to help with successful training of large language models and multi-modal models.
 ***
  
 ## Natural Language Processing
